@@ -78,18 +78,18 @@
                     <resultFile>${project.build.directory}/duplicate-finder-result.xml</resultFile>
                 </configuration>
             </plugin>
-            <plugin>
-		<groupId>org.apache.maven.plugins</groupId>
-		<artifactId>maven-jar-plugin</artifactId>
-		<version>3.0.2</version>
-		<configuration>
-		  <archive>
-		    <manifest>
-		      <mainClass>r21.kotlin.pulsar.app.sites.shein.SheinCrawler</mainClass>
-		    </manifest>
-		  </archive>
-		</configuration>
-      	    </plugin>
+<!--            <plugin>-->
+<!--		<groupId>org.apache.maven.plugins</groupId>-->
+<!--		<artifactId>maven-jar-plugin</artifactId>-->
+<!--		<version>3.0.2</version>-->
+<!--		<configuration>-->
+<!--		  <archive>-->
+<!--		    <manifest>-->
+<!--		      <mainClass>r21.kotlin.pulsar.app.sites.shein.SheinCrawler</mainClass>-->
+<!--		    </manifest>-->
+<!--		  </archive>-->
+<!--		</configuration>-->
+<!--      	    </plugin>-->
         </plugins>
     </build>
 
