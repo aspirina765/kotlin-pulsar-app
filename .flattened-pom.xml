@@ -4148,6 +4148,51 @@
       <optional>false</optional>
     </dependency>
     <dependency>
+      <groupId>ai.platon.pulsar</groupId>
+      <artifactId>pulsar-boot</artifactId>
+      <version>1.10.9</version>
+      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>pulsar-persist</artifactId>
+          <groupId>ai.platon.pulsar</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>pulsar-skeleton</artifactId>
+          <groupId>ai.platon.pulsar</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>pulsar-ql</artifactId>
+          <groupId>ai.platon.pulsar</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>pulsar-beans</artifactId>
+          <groupId>ai.platon.pulsar</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>spring-boot</artifactId>
+          <groupId>org.springframework.boot</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>kotlin-stdlib</artifactId>
+          <groupId>org.jetbrains.kotlin</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>kotlin-stdlib-jdk8</artifactId>
+          <groupId>org.jetbrains.kotlin</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>kotlin-reflect</artifactId>
+          <groupId>org.jetbrains.kotlin</groupId>
+        </exclusion>
+        <exclusion>
+          <artifactId>kotlinx-coroutines-core</artifactId>
+          <groupId>org.jetbrains.kotlinx</groupId>
+        </exclusion>
+      </exclusions>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-stdlib</artifactId>
       <version>1.6.0</version>

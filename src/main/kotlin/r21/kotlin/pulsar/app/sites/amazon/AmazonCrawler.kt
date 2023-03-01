@@ -4,6 +4,6 @@ import ai.platon.pulsar.context.PulsarContexts
 
 fun main() = PulsarContexts.createSession().scrapeOutPages(
     "https://www.amazon.com/Best-Sellers/zgbs",
-    "-outLink a[href~=/dp/] -headless",
+    "-headless -outLink a[href~=/dp/]",
     mapOf("title" to "#title", "ratings" to "#acrCustomerReviewText")
 ).let { println(it) }
