@@ -1,0 +1,73 @@
+02:34:47.132 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-default.xml
+02:34:47.137 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-site.xml
+02:34:47.139 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.c.AbstractConfiguration - Resource not find: pulsar-task.xml
+02:34:47.172 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.c.AbstractConfiguration - profile: <> | [pulsar-default.xml, pulsar-site.xml]
+02:34:47.739 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.p.ProtocolFactory - Supported protocols: crowd, browser
+02:34:47.768 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.p.h.PrimerHtmlParser - className: PrimerHtmlParser defaultCharEncoding: utf-8
+02:34:47.897 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.parse.PageParser - maxParseTime: PT1M maxParsedLinks: 200 groupMode: BY_HOST ignoreExternalLinks: false maxUrlLength: 1024
+02:34:47.952 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.i.StreamingCrawlLoop - Crawl loop is created | @109065770
+02:34:48.071 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.PulsarContexts - Active context | ai.platon.pulsar.context.support.StaticPulsarContext#1
+02:34:57.961 [r21.kotlin.pulsar.app.main] INFO  a.p.s.o.m.driver.cluster - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+02:34:57.962 [r21.kotlin.pulsar.app.main] INFO  a.p.s.o.m.driver.cluster - Adding discovered server 127.0.0.1:27017 to client view of cluster
+02:34:57.995 [r21.kotlin.pulsar.app.main] INFO  a.p.p.p.gora.GoraStorage - Backend data store: MongoStore realSchema: webpage110
+02:34:58.005 [.0.1:27017] INFO  a.p.s.o.m.d.connection - Opened connection [connectionId{localValue:1, serverValue:1}] to 127.0.0.1:27017
+02:34:58.008 [.0.1:27017] INFO  a.p.s.o.m.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[6, 0, 4]}, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=2119861}
+02:34:58.009 [.0.1:27017] INFO  a.p.s.o.m.driver.cluster - Discovered cluster type of STANDALONE
+02:35:08.366 [r21.kotlin.pulsar.app.main] INFO  a.p.p.p.AutoDetectStorageProvider - Storage is created: class org.apache.gora.mongodb.store.MongoStore realSchema: webpage110
+02:35:08.384 [r21.kotlin.pulsar.app.main] INFO  a.p.s.o.m.d.connection - Opened connection [connectionId{localValue:2, serverValue:2}] to 127.0.0.1:27017
+02:35:08.518 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.f.p.PrivacyContextIdGeneratorFactory - Using id generator f.p.SequentialPrivacyContextIdGenerator
+02:35:08.543 [r21.kotlin.pulsar.app.main] INFO  a.p.p.p.b.e.c.BasicPrivacyContextManager - Privacy context is created #1DM67R2
+02:35:08.620 [r21.kotlin.pulsar.app.main] INFO  a.p.p.common.AppContext - Version: Linux version 5.14.0-162.12.1.el9_1.x86_64 (mockbuild@x86-vm-07.build.eng.bos.redhat.com) (gcc (GCC) 11.3.1 20220421 (Red Hat 11.3.1-2), GNU ld version 2.35.2-24.el9) #1 SMP PREEMPT_DYNAMIC Tue Dec 20 06:06:30 EST 2022
+
+02:35:08.636 [r21.kotlin.pulsar.app.main] INFO  a.p.p.c.ProcessLauncher - Launching process:
+/usr/bin/google-chrome-stable --disable-gpu --hide-scrollbars --remote-debugging-port=0 --no-default-browser-check --no-first-run --no-startup-window --mute-audio --disable-background-networking --disable-background-timer-throttling --disable-client-side-phishing-detection --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-translate --disable-blink-features=AutomationControlled --metrics-recording-only --safebrowsing-disable-auto-update --no-sandbox --ignore-certificate-errors --window-size=1920,1080 --pageLoadStrategy=none --throwExceptionOnScriptError=true --user-data-dir=/tmp/pulsar-rhel9prod/context/browser/br.2h3f8
+02:35:18.710 [Thread-5] INFO  a.p.p.c.s.AbstractPulsarContext - Closing context #1/1 | StaticPulsarContext
+02:35:18.712 [Thread-5] INFO  a.p.p.s.AbstractPulsarSession - Session is closed | #1000001
+02:35:18.713 [Thread-5] INFO  a.p.p.p.b.d.WebDriverPoolManager - Web driver pool manager is closed
+02:35:18.713 [Thread-5] INFO  a.p.p.c.f.p.PrivacyManager - Closing privacy contexts ...
+02:35:18.717 [Thread-5] INFO  a.p.p.p.b.e.c.BrowserPrivacyContext - Privacy context #1DM67R2 has lived for 10s | success: 0(0,00 pages/s) | small: 0(0,0%) | traffic: 0 B(0 B/s) | tasks: 1 total run: 0 | null
+02:35:18.875 [Thread-6] INFO  a.p.pulsar.common.Runtimes - Exit | rhel9prod 26169  25601  2023-03-01T05:35:07.920Z  PT1.83S    /opt/google/chrome/chrome 
+02:35:23.228 [Thread-5] INFO  a.p.p.p.b.e.c.WebDriverContext - All tasks return in 5 seconds (shutdown) | 1DM67R21
+02:35:23.229 [Thread-5] INFO  a.p.p.p.b.e.c.WebDriverContext - Web driver context is closed successfully (shutdown) | 1DM67R21 | {pulsar_chrome | /tmp/pulsar-rhel9prod/context/cx.1DM67R2}
+02:52:15.746 [main] INFO  a.p.p.q.c.AbstractSQLContext - SQLContext is created | 1/0 | DefaultClassPathXmlSQLContext
+02:52:15.782 [main] INFO  a.p.p.c.PulsarContexts - Active context | ai.platon.pulsar.ql.context.DefaultClassPathXmlSQLContext#1
+02:52:16.008 [main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-default.xml
+02:52:16.009 [main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-site.xml
+02:52:16.010 [main] INFO  a.p.p.c.c.AbstractConfiguration - Resource not find: pulsar-task.xml
+02:52:16.038 [main] INFO  a.p.p.c.c.AbstractConfiguration - profile: <> | [pulsar-default.xml, pulsar-site.xml]
+02:52:16.094 [main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-default.xml
+02:52:16.095 [main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-site.xml
+02:52:16.096 [main] INFO  a.p.p.c.c.AbstractConfiguration - Resource not find: pulsar-task.xml
+02:52:16.097 [main] INFO  a.p.p.c.c.AbstractConfiguration - profile: <> | [pulsar-default.xml, pulsar-site.xml]
+02:52:16.834 [main] INFO  a.p.p.q.c.ClassPathXmlSQLContext - SQLSession is created | #2/2/1
+02:52:16.835 [main] INFO  a.p.p.q.h.H2SessionFactory - SQLSession #2 is created for h2session <#2 (user: SA)>, connection: <jdbc:h2:mem:1677649935783_1180771478>
+02:52:17.563 [main] INFO  a.p.p.c.p.ProtocolFactory - Supported protocols: crowd, browser
+02:52:17.629 [main] INFO  a.p.p.crawl.CoreMetrics - maxUrlLength: 1024 timeoutUrls: 0 failedUrls: 0 deadUrls: 0
+02:52:17.802 [main] INFO  a.p.p.c.p.h.PrimerHtmlParser - className: PrimerHtmlParser defaultCharEncoding: utf-8 parseFilters
+02:52:17.832 [main] INFO  a.p.p.c.p.h.PrimerHtmlParser - className: PrimerHtmlParser defaultCharEncoding: utf-8
+02:52:17.834 [main] INFO  a.p.p.c.p.ParserFactory - Active parsers: 
+          ----------Params Table----------               
+                     Name   Value                    
+                text/html: ai.platon.pulsar.crawl.parse.html.PrimerHtmlParser
+ application/x-javascript: 
+                 text/xml: ai.platon.pulsar.parse.tika.TikaParser
+           text/aspdotnet: ai.platon.pulsar.crawl.parse.html.PrimerHtmlParser
+      application/rss+xml: ai.platon.pulsar.parse.tika.TikaParser
+                        *: ai.platon.pulsar.parse.tika.TikaParser
+    application/xhtml+xml: ai.platon.pulsar.crawl.parse.html.PrimerHtmlParser
+
+02:52:17.845 [main] INFO  a.p.p.c.parse.PageParser - maxParseTime: PT1M maxParsedLinks: 200 groupMode: BY_HOST ignoreExternalLinks: false maxUrlLength: 1024
+02:52:27.575 [main] INFO  a.p.s.o.m.driver.cluster - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+02:52:27.576 [main] INFO  a.p.s.o.m.driver.cluster - Adding discovered server 127.0.0.1:27017 to client view of cluster
+02:52:27.625 [main] INFO  a.p.p.p.gora.GoraStorage - Backend data store: MongoStore realSchema: webpage110
+02:52:27.635 [.0.1:27017] INFO  a.p.s.o.m.d.connection - Opened connection [connectionId{localValue:1, serverValue:3}] to 127.0.0.1:27017
+02:52:27.642 [.0.1:27017] INFO  a.p.s.o.m.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[6, 0, 4]}, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=3902195}
+02:52:27.644 [.0.1:27017] INFO  a.p.s.o.m.driver.cluster - Discovered cluster type of STANDALONE
+02:52:38.503 [main] INFO  a.p.p.p.AutoDetectStorageProvider - Storage is created: class org.apache.gora.mongodb.store.MongoStore realSchema: webpage110
+02:52:38.523 [main] INFO  a.p.s.o.m.d.connection - Opened connection [connectionId{localValue:2, serverValue:4}] to 127.0.0.1:27017
+02:52:38.728 [main] INFO  a.p.p.c.f.p.PrivacyContextIdGeneratorFactory - Using id generator f.p.SequentialPrivacyContextIdGenerator
+02:52:38.745 [main] INFO  a.p.p.p.b.e.c.MultiPrivacyContextManager - Privacy context is created #1OdCPq2, active: 0, allowed: 2
+02:52:38.831 [main] INFO  a.p.p.common.AppContext - Version: Linux version 5.14.0-162.12.1.el9_1.x86_64 (mockbuild@x86-vm-07.build.eng.bos.redhat.com) (gcc (GCC) 11.3.1 20220421 (Red Hat 11.3.1-2), GNU ld version 2.35.2-24.el9) #1 SMP PREEMPT_DYNAMIC Tue Dec 20 06:06:30 EST 2022
+
+02:52:38.848 [main] INFO  a.p.p.c.ProcessLauncher - Launching process:
+/usr/bin/google-chrome-stable --disable-gpu --hide-scrollbars --remote-debugging-port=0 --no-default-browser-check --no-first-run --no-startup-window --mute-audio --disable-background-networking --disable-background-timer-throttling --disable-client-side-phishing-detection --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-translate --disable-blink-features=AutomationControlled --metrics-recording-only --safebrowsing-disable-auto-update --no-sandbox --ignore-certificate-errors --window-size=1920,1080 --pageLoadStrategy=none --throwExceptionOnScriptError=true --user-data-dir=/tmp/pulsar-rhel9prod/context/browser/br.2y8i

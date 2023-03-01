@@ -1,0 +1,16 @@
+2023-03-01 02:35:08,900 --- [output] - DevTools listening on ws://127.0.0.1:43461/devtools/browser/37076ae1-ede5-4df4-aecb-cb7866249670
+2023-03-01 02:35:09,386 --- Connected to ws ws://localhost:43461/devtools/browser/37076ae1-ede5-4df4-aecb-cb7866249670
+2023-03-01 02:35:09,387 --- Connected to ws server ws://localhost:43461/devtools/browser/37076ae1-ede5-4df4-aecb-cb7866249670
+2023-03-01 02:35:09,391 --- Connected to ws ws://localhost:43461/devtools/page/472220CBAF3D18CDDCBDF0ABF7668456
+2023-03-01 02:35:09,391 --- Connected to ws server ws://localhost:43461/devtools/page/472220CBAF3D18CDDCBDF0ABF7668456
+2023-03-01 02:35:09,611 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
+2023-03-01 02:35:16,229 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 02:35:16,230 --- Closing ws server ws://localhost:43461/devtools/page/472220CBAF3D18CDDCBDF0ABF7668456
+2023-03-01 02:35:18,875 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 02:35:18,875 --- Closing ws server ws://localhost:43461/devtools/browser/37076ae1-ede5-4df4-aecb-cb7866249670
+2023-03-01 02:52:39,094 --- [output] - DevTools listening on ws://127.0.0.1:43243/devtools/browser/e138dd8e-dc2a-4d2d-b7c3-c6782ad3c6da
+2023-03-01 02:52:39,592 --- Connected to ws ws://localhost:43243/devtools/browser/e138dd8e-dc2a-4d2d-b7c3-c6782ad3c6da
+2023-03-01 02:52:39,592 --- Connected to ws server ws://localhost:43243/devtools/browser/e138dd8e-dc2a-4d2d-b7c3-c6782ad3c6da
+2023-03-01 02:52:39,597 --- Connected to ws ws://localhost:43243/devtools/page/AB526D317BA9B6B73C217E8BE0E68058
+2023-03-01 02:52:39,597 --- Connected to ws server ws://localhost:43243/devtools/page/AB526D317BA9B6B73C217E8BE0E68058
+2023-03-01 02:52:39,784 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
