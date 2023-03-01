@@ -105,7 +105,8 @@ internal class WebDriverDemo(private val session: PulsarSession = createSession(
  * */
 fun main() {
     // Set the system to work with single page applications (SPA)
-    BrowserSettings.withSPA()
+//    BrowserSettings.withSPA()
+    BrowserSettings.headless()
 
     val url = "https://www.amazon.com/dp/B09V3KXJPB"
     val args = "-refresh -parse"

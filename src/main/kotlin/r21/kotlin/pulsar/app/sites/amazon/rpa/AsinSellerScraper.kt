@@ -16,6 +16,7 @@ import ai.platon.pulsar.persist.WebPage
 import ai.platon.pulsar.ql.context.SQLContexts
 import java.nio.file.Files
 import java.sql.ResultSet
+import ai.platon.pulsar.browser.common.BrowserSettings
 
 import r21.kotlin.pulsar.app.sites.amazon.AmazonUrls
 
@@ -224,6 +225,7 @@ class AsinSellerScraper {
 }
 
 fun main() {
+    BrowserSettings.headless()
     BrowserSettings.privacy(2).maxTabs(4)
 
     val crawler = AsinSellerScraper()

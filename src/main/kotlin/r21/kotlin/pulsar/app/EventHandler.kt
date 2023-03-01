@@ -1,5 +1,6 @@
 package r21.kotlin.pulsar.app
 
+import ai.platon.pulsar.browser.common.BrowserSettings
 import ai.platon.pulsar.common.urls.UrlAware
 import ai.platon.pulsar.context.PulsarContexts
 import ai.platon.pulsar.crawl.event.impl.DefaultPageEvent
@@ -123,6 +124,7 @@ class PrintFlowEvent: DefaultPageEvent() {
  * Demonstrates how to use event handlers.
  * */
 fun main() {
+    BrowserSettings.headless()
     val url = "https://www.amazon.com/dp/B09V3KXJPB"
     val session = PulsarContexts.createSession()
     val link = ListenableHyperlink(url, args = "-refresh -parse", event = PrintFlowEvent())

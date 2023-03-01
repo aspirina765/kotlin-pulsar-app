@@ -1,5 +1,6 @@
 package r21.kotlin.pulsar.app
 
+import ai.platon.pulsar.browser.common.BrowserSettings
 import ai.platon.pulsar.common.LinkExtractors
 import ai.platon.pulsar.context.PulsarContexts
 import ai.platon.pulsar.persist.WebPage
@@ -32,6 +33,8 @@ internal object CrawlCoroutines {
 }
 
 fun main() {
+    BrowserSettings.headless()
+
     println("== loadAllInCoroutines ==")
     runBlocking { CrawlCoroutines.loadAllInCoroutines() }
 

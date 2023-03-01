@@ -9,6 +9,7 @@ import ai.platon.pulsar.dom.FeaturedDocument
 import ai.platon.pulsar.persist.WebPage
 import ai.platon.pulsar.ql.context.SQLContexts
 import r21.kotlin.pulsar.app.sites.amazon.rpa.AsinSellerScraper.AsinSellerScraper
+import ai.platon.pulsar.browser.common.BrowserSettings
 
 
 class AsinRPAScraper {
@@ -133,6 +134,7 @@ class AsinRPAScraper {
 }
 
 fun main() {
+    BrowserSettings.headless()
     val crawler = AsinRPAScraper()
     crawler.crawl()
 

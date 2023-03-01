@@ -11,6 +11,8 @@ import ai.platon.pulsar.dom.FeaturedDocument
 import ai.platon.pulsar.persist.WebPage
 import ai.platon.pulsar.session.PulsarSession
 
+import ai.platon.pulsar.browser.common.BrowserSettings
+
 class WalmartRPA(
     val session: PulsarSession = PulsarContexts.createSession()
 ): DefaultBrowseRPA() {
@@ -78,6 +80,7 @@ class WalmartCrawler(private val session: PulsarSession = PulsarContexts.createS
 }
 
 fun main() {
+    BrowserSettings.headless()
     val portalUrl = ResourceLoader.readAllLines("seeds.walmart.txt")
         .filter { UrlUtils.isStandard(it) }
         .shuffled()

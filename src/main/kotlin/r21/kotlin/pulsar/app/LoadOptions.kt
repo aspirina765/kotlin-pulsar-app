@@ -1,5 +1,6 @@
 package r21.kotlin.pulsar.app
 
+import ai.platon.pulsar.browser.common.BrowserSettings
 import ai.platon.pulsar.context.PulsarContexts
 import ai.platon.pulsar.crawl.common.url.ParsableHyperlink
 
@@ -7,6 +8,8 @@ import ai.platon.pulsar.crawl.common.url.ParsableHyperlink
  * Demonstrates the usage of load options.
  * */
 fun main() {
+    BrowserSettings.headless()
+
     // Create a pulsar session
     val session = PulsarContexts.createSession()
     // The r21.kotlin.pulsar.app.main url we are playing with

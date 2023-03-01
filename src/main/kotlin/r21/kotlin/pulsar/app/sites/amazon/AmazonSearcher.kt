@@ -6,6 +6,13 @@ import ai.platon.pulsar.crawl.fetch.driver.WebDriver
 import ai.platon.pulsar.dom.Documents
 import ai.platon.pulsar.persist.WebPage
 
+import ai.platon.pulsar.browser.common.BrowserSettings
+import ai.platon.pulsar.common.options.LoadOptions
+import ai.platon.pulsar.context.PulsarContexts.createSession
+import ai.platon.pulsar.crawl.fetch.driver.WebDriver
+import ai.platon.pulsar.session.PulsarSession
+import org.slf4j.LoggerFactory
+
 class AmazonSearcherJsEventHandler: WebPageWebDriverEventHandler() {
     override suspend fun invoke(page: WebPage, driver: WebDriver): Any? {
         val selector = "input#twotabsearchtextbox"
@@ -39,6 +46,7 @@ class AmazonSearcherJsEventHandler: WebPageWebDriverEventHandler() {
 
 fun main() {
     val portalUrl = "https://www.amazon.com/"
+    BrowserSettings.headless()
 
     val cx = PulsarContexts.create()
     val i = cx.createSession()

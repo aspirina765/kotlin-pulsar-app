@@ -275,3 +275,78 @@
 04:11:42.045 [-worker-14] INFO  a.p.p.c.i.StreamingCrawler - All done. Total 20 tasks are processed in session #1000002 in 43s
 04:11:42.095 [Thread-18] INFO  a.p.pulsar.common.Runtimes - Exit | rhel9prod 106880 105526 2023-03-01T07:10:59.270Z  PT13.73S   /opt/google/chrome/chrome 
 04:11:42.103 [Thread-6] INFO  a.p.pulsar.common.Runtimes - Exit | rhel9prod 105964 105526 2023-03-01T07:10:33.570Z  PT16.61S   /opt/google/chrome/chrome 
+05:02:45.623 [main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-default.xml
+05:02:45.628 [main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-site.xml
+05:02:45.630 [main] INFO  a.p.p.c.c.AbstractConfiguration - Resource not find: pulsar-task.xml
+05:02:45.659 [main] INFO  a.p.p.c.c.AbstractConfiguration - profile: <> | [pulsar-default.xml, pulsar-site.xml]
+05:02:46.255 [main] INFO  a.p.p.c.p.ProtocolFactory - Supported protocols: crowd, browser
+05:02:46.282 [main] INFO  a.p.p.c.p.h.PrimerHtmlParser - className: PrimerHtmlParser defaultCharEncoding: utf-8
+05:02:46.397 [main] INFO  a.p.p.c.parse.PageParser - maxParseTime: PT1M maxParsedLinks: 200 groupMode: BY_HOST ignoreExternalLinks: false maxUrlLength: 1024
+05:02:46.453 [main] INFO  a.p.p.c.i.StreamingCrawlLoop - Crawl loop is created | @1401737458
+05:02:46.545 [main] INFO  a.p.p.c.PulsarContexts - Active context | ai.platon.pulsar.context.support.StaticPulsarContext#1
+05:02:56.492 [main] INFO  a.p.s.o.m.driver.cluster - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+05:02:56.492 [main] INFO  a.p.s.o.m.driver.cluster - Adding discovered server 127.0.0.1:27017 to client view of cluster
+05:02:56.525 [main] INFO  a.p.p.p.gora.GoraStorage - Backend data store: MongoStore realSchema: webpage110
+05:02:56.533 [.0.1:27017] INFO  a.p.s.o.m.d.connection - Opened connection [connectionId{localValue:1, serverValue:1}] to 127.0.0.1:27017
+05:02:56.537 [.0.1:27017] INFO  a.p.s.o.m.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[6, 0, 4]}, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=2162231}
+05:02:56.538 [.0.1:27017] INFO  a.p.s.o.m.driver.cluster - Discovered cluster type of STANDALONE
+05:03:06.751 [main] INFO  a.p.p.p.AutoDetectStorageProvider - Storage is created: class org.apache.gora.mongodb.store.MongoStore realSchema: webpage110
+05:03:06.769 [main] INFO  a.p.s.o.m.d.connection - Opened connection [connectionId{localValue:2, serverValue:2}] to 127.0.0.1:27017
+05:03:06.989 [main] INFO  a.p.p.c.f.p.PrivacyContextIdGeneratorFactory - Using id generator f.p.SequentialPrivacyContextIdGenerator
+05:03:07.013 [main] INFO  a.p.p.p.b.e.c.BasicPrivacyContextManager - Privacy context is created #1IU2tM2
+05:03:07.088 [main] INFO  a.p.p.common.AppContext - Version: Linux version 5.14.0-162.12.1.el9_1.x86_64 (mockbuild@x86-vm-07.build.eng.bos.redhat.com) (gcc (GCC) 11.3.1 20220421 (Red Hat 11.3.1-2), GNU ld version 2.35.2-24.el9) #1 SMP PREEMPT_DYNAMIC Tue Dec 20 06:06:30 EST 2022
+
+05:03:07.104 [main] INFO  a.p.p.c.ProcessLauncher - Launching process:
+/usr/bin/google-chrome-stable --headless --disable-gpu --hide-scrollbars --remote-debugging-port=0 --no-default-browser-check --no-first-run --no-startup-window --mute-audio --disable-background-networking --disable-background-timer-throttling --disable-client-side-phishing-detection --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-translate --disable-blink-features=AutomationControlled --metrics-recording-only --safebrowsing-disable-auto-update --no-sandbox --ignore-certificate-errors --window-size=1920,1080 --pageLoadStrategy=none --throwExceptionOnScriptError=true --user-data-dir=/tmp/pulsar-rhel9prod/context/browser/br.32222
+05:03:21.354 [r-worker-7] WARN  a.p.p.p.b.d.c.ChromeDevtoolsDriver - No node found for selector: .form input[type=text]
+05:03:24.140 [r-worker-7] WARN  a.p.p.p.b.d.c.ChromeDevtoolsDriver - No node found for selector: .form input[type=text]
+05:03:26.506 [r-worker-7] WARN  a.p.p.p.b.d.c.ChromeDevtoolsDriver - No node found for selector: .form input[type=text]
+05:03:42.980 [r-worker-7] WARN  a.p.p.p.b.d.c.ChromeDevtoolsDriver - No node found for selector: .form input[type=text]
+05:03:53.447 [main] INFO  r.k.p.app.WebDriverDemo - Did the interaction
+05:03:54.245 [main] INFO  a.p.p.c.c.L.Task -   3. 💯 🔃 U for RR got 200 1,60 MiB <- 1,72 MiB [💿1,73 MiB] in 40.182s, last fetched 2h10m59s ago, fc:2 | 34/358/91/243/7019 | 1IU2tM2 | file:///tmp/ln/67a169800a08de16ac2087074a39b938.htm | https://www.amazon.com/dp/B09V3KXJPB -parse -refresh
+05:03:54.245 [main] INFO  a.p.p.c.c.L.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc
+05:03:54.480 [Thread-5] INFO  a.p.p.c.s.AbstractPulsarContext - Closing context #1/1 | StaticPulsarContext
+05:03:54.483 [Thread-5] INFO  a.p.p.s.AbstractPulsarSession - Session is closed | #1000001
+05:03:54.484 [Thread-5] INFO  a.p.p.p.b.d.WebDriverPoolManager - Web driver pool manager is closed
+05:03:54.484 [Thread-5] INFO  a.p.p.c.f.p.PrivacyManager - Closing privacy contexts ...
+05:03:54.487 [Thread-5] INFO  a.p.p.p.b.e.c.BrowserPrivacyContext - Privacy context #1IU2tM2 has lived for 47s | success: 1(0,02 pages/s) | small: 0(0,0%) | traffic: 0 B(0 B/s) | tasks: 1 total run: 1 | null
+05:03:54.488 [Thread-5] INFO  a.p.p.p.b.e.c.WebDriverContext - All tasks return in 0 seconds (shutdown) | 1IU2tM21
+05:03:54.489 [Thread-5] INFO  a.p.p.p.b.e.c.WebDriverContext - Web driver context is closed successfully (shutdown) | 1IU2tM21 | {pulsar_chrome | /tmp/pulsar-rhel9prod/context/cx.1IU2tM2}
+05:03:54.582 [Thread-6] INFO  a.p.pulsar.common.Runtimes - Exit | rhel9prod 44743  44228  2023-03-01T08:03:06.390Z  PT0.95S    /opt/google/chrome/chrome 
+05:04:45.538 [main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-default.xml
+05:04:45.542 [main] INFO  a.p.p.c.c.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-site.xml
+05:04:45.544 [main] INFO  a.p.p.c.c.AbstractConfiguration - Resource not find: pulsar-task.xml
+05:04:45.571 [main] INFO  a.p.p.c.c.AbstractConfiguration - profile: <> | [pulsar-default.xml, pulsar-site.xml]
+05:04:46.098 [main] INFO  a.p.p.c.p.ProtocolFactory - Supported protocols: crowd, browser
+05:04:46.123 [main] INFO  a.p.p.c.p.h.PrimerHtmlParser - className: PrimerHtmlParser defaultCharEncoding: utf-8
+05:04:46.200 [main] INFO  a.p.p.c.parse.PageParser - maxParseTime: PT1M maxParsedLinks: 200 groupMode: BY_HOST ignoreExternalLinks: false maxUrlLength: 1024
+05:04:46.237 [main] INFO  a.p.p.c.i.StreamingCrawlLoop - Crawl loop is created | @392289808
+05:04:46.325 [main] INFO  a.p.p.c.PulsarContexts - Active context | ai.platon.pulsar.context.support.StaticPulsarContext#1
+05:04:56.456 [main] INFO  a.p.s.o.m.driver.cluster - Cluster created with settings {hosts=[127.0.0.1:27017], mode=MULTIPLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+05:04:56.457 [main] INFO  a.p.s.o.m.driver.cluster - Adding discovered server 127.0.0.1:27017 to client view of cluster
+05:04:56.494 [main] INFO  a.p.p.p.gora.GoraStorage - Backend data store: MongoStore realSchema: webpage110
+05:04:56.504 [.0.1:27017] INFO  a.p.s.o.m.d.connection - Opened connection [connectionId{localValue:1, serverValue:3}] to 127.0.0.1:27017
+05:04:56.508 [.0.1:27017] INFO  a.p.s.o.m.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[6, 0, 4]}, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=2148233}
+05:04:56.508 [.0.1:27017] INFO  a.p.s.o.m.driver.cluster - Discovered cluster type of STANDALONE
+05:05:07.054 [main] INFO  a.p.p.p.AutoDetectStorageProvider - Storage is created: class org.apache.gora.mongodb.store.MongoStore realSchema: webpage110
+05:05:07.072 [main] INFO  a.p.s.o.m.d.connection - Opened connection [connectionId{localValue:2, serverValue:4}] to 127.0.0.1:27017
+05:05:07.206 [main] INFO  a.p.p.c.f.p.PrivacyContextIdGeneratorFactory - Using id generator f.p.SequentialPrivacyContextIdGenerator
+05:05:07.229 [main] INFO  a.p.p.p.b.e.c.BasicPrivacyContextManager - Privacy context is created #19gGcS2
+05:05:07.299 [main] INFO  a.p.p.common.AppContext - Version: Linux version 5.14.0-162.12.1.el9_1.x86_64 (mockbuild@x86-vm-07.build.eng.bos.redhat.com) (gcc (GCC) 11.3.1 20220421 (Red Hat 11.3.1-2), GNU ld version 2.35.2-24.el9) #1 SMP PREEMPT_DYNAMIC Tue Dec 20 06:06:30 EST 2022
+
+05:05:07.316 [main] INFO  a.p.p.c.ProcessLauncher - Launching process:
+/usr/bin/google-chrome-stable --headless --disable-gpu --hide-scrollbars --remote-debugging-port=0 --no-default-browser-check --no-first-run --no-startup-window --mute-audio --disable-background-networking --disable-background-timer-throttling --disable-client-side-phishing-detection --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-translate --disable-blink-features=AutomationControlled --metrics-recording-only --safebrowsing-disable-auto-update --no-sandbox --ignore-certificate-errors --window-size=1920,1080 --pageLoadStrategy=none --throwExceptionOnScriptError=true --user-data-dir=/tmp/pulsar-rhel9prod/context/browser/br.3eoys
+05:05:21.516 [main] INFO  a.p.p.c.c.L.Task -   2. 💯 ⚡ U for N got 200 963,12 KiB [💿1.001,08 KiB] in 13.209s, fc:1 | 53/207/43/142/5079 | 19gGcS2 | file:///tmp/ln/75b42c2501d270e8645a002894b5abb2.htm | https://www.mercadolivre.com.br/c/celulares-e-telefones -expires PT24H -ignoreFailure -itemExpires PT120H -outLinkSelector a[href~=-cat-]
+05:05:21.516 [main] INFO  a.p.p.c.c.L.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc
+05:05:21.689 [main] INFO  a.p.p.c.i.StreamingCrawlLoop - Registered 15 link collectors | loop#1 @392289808
+05:05:21.710 [Thread-5] INFO  a.p.p.c.s.AbstractPulsarContext - Closing context #1/2 | StaticPulsarContext
+05:05:21.710 [-worker-11] INFO  a.p.p.c.i.StreamingCrawler - Starting StreamingCrawler #1 ...
+05:05:21.711 [-worker-11] INFO  a.p.p.c.i.StreamingCrawler - All done. Total 0 tasks are processed in session #1000002 in 0s
+05:05:21.712 [Thread-5] INFO  a.p.p.s.AbstractPulsarSession - Session is closed | #1000002
+05:05:21.712 [Thread-5] INFO  a.p.p.s.AbstractPulsarSession - Session is closed | #1000001
+05:05:21.713 [Thread-5] INFO  a.p.p.p.b.d.WebDriverPoolManager - Web driver pool manager is closed
+05:05:21.714 [Thread-5] INFO  a.p.p.c.f.p.PrivacyManager - Closing privacy contexts ...
+05:05:21.716 [Thread-5] INFO  a.p.p.p.b.e.c.BrowserPrivacyContext - Privacy context #19gGcS2 has lived for 14s | success: 1(0,07 pages/s) | small: 0(0,0%) | traffic: 0 B(0 B/s) | tasks: 1 total run: 1 | null
+05:05:21.717 [Thread-5] INFO  a.p.p.p.b.e.c.WebDriverContext - All tasks return in 0 seconds (shutdown) | 19gGcS21
+05:05:21.718 [Thread-5] INFO  a.p.p.p.b.e.c.WebDriverContext - Web driver context is closed successfully (shutdown) | 19gGcS21 | {pulsar_chrome | /tmp/pulsar-rhel9prod/context/cx.19gGcS2}
+05:05:21.795 [Thread-6] INFO  a.p.pulsar.common.Runtimes - Exit | rhel9prod 47349  46843  2023-03-01T08:05:06.600Z  PT0.52S    /opt/google/chrome/chrome 

@@ -519,3 +519,31 @@
 2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
 2023-03-01 04:11:42,087 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
 2023-03-01 04:11:42,087 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 05:03:07,137 --- [output] - [0301/050307.136663:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/76c67c71-8d6c-44bc-a471-2d1f0d9db2cd.lock: File exists (17)
+2023-03-01 05:03:07,137 --- [output] - [0301/050307.136743:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/37bdc152-4358-40a4-a397-16b315e62dab.lock: File exists (17)
+2023-03-01 05:03:07,137 --- [output] - [0301/050307.136753:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/ab0a3b50-82d9-463c-84e3-21c77a583b03.lock: File exists (17)
+2023-03-01 05:03:07,188 --- [output] - DevTools listening on ws://127.0.0.1:33265/devtools/browser/7e02a9d9-f114-4d85-b778-d1cc8f7c236e
+2023-03-01 05:03:07,583 --- Connected to ws ws://localhost:33265/devtools/browser/7e02a9d9-f114-4d85-b778-d1cc8f7c236e
+2023-03-01 05:03:07,584 --- Connected to ws server ws://localhost:33265/devtools/browser/7e02a9d9-f114-4d85-b778-d1cc8f7c236e
+2023-03-01 05:03:07,588 --- Connected to ws ws://localhost:33265/devtools/page/303E67B76DD13934ED6D3C5402F49166
+2023-03-01 05:03:07,588 --- Connected to ws server ws://localhost:33265/devtools/page/303E67B76DD13934ED6D3C5402F49166
+2023-03-01 05:03:13,620 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
+2023-03-01 05:03:43,407 --- No node found for selector: .form input[type=submit]
+2023-03-01 05:03:54,583 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 05:03:54,583 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 05:03:54,584 --- Closing ws server ws://localhost:33265/devtools/browser/7e02a9d9-f114-4d85-b778-d1cc8f7c236e
+2023-03-01 05:03:54,584 --- Closing ws server ws://localhost:33265/devtools/page/303E67B76DD13934ED6D3C5402F49166
+2023-03-01 05:05:07,349 --- [output] - [0301/050507.348614:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/76c67c71-8d6c-44bc-a471-2d1f0d9db2cd.lock: File exists (17)
+2023-03-01 05:05:07,349 --- [output] - [0301/050507.348689:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/37bdc152-4358-40a4-a397-16b315e62dab.lock: File exists (17)
+2023-03-01 05:05:07,349 --- [output] - [0301/050507.348699:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/ab0a3b50-82d9-463c-84e3-21c77a583b03.lock: File exists (17)
+2023-03-01 05:05:07,349 --- [output] - [0301/050507.348708:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/c04a9de6-2ee3-4021-a804-4b2f82404a9b.lock: File exists (17)
+2023-03-01 05:05:07,400 --- [output] - DevTools listening on ws://127.0.0.1:36993/devtools/browser/0b890ed5-ae9a-458a-a650-d5b8eb221025
+2023-03-01 05:05:07,801 --- Connected to ws ws://localhost:36993/devtools/browser/0b890ed5-ae9a-458a-a650-d5b8eb221025
+2023-03-01 05:05:07,802 --- Connected to ws server ws://localhost:36993/devtools/browser/0b890ed5-ae9a-458a-a650-d5b8eb221025
+2023-03-01 05:05:07,807 --- Connected to ws ws://localhost:36993/devtools/page/DA8DD915CE4310CA1E33349B06CC03BB
+2023-03-01 05:05:07,807 --- Connected to ws server ws://localhost:36993/devtools/page/DA8DD915CE4310CA1E33349B06CC03BB
+2023-03-01 05:05:08,044 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
+2023-03-01 05:05:21,794 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 05:05:21,794 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 05:05:21,795 --- Closing ws server ws://localhost:36993/devtools/page/DA8DD915CE4310CA1E33349B06CC03BB
+2023-03-01 05:05:21,795 --- Closing ws server ws://localhost:36993/devtools/browser/0b890ed5-ae9a-458a-a650-d5b8eb221025

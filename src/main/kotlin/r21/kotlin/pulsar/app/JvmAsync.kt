@@ -1,5 +1,6 @@
 package r21.kotlin.pulsar.app
 
+import ai.platon.pulsar.browser.common.BrowserSettings
 import ai.platon.pulsar.common.LinkExtractors
 import ai.platon.pulsar.context.PulsarContexts.createSession
 import ai.platon.pulsar.dom.FeaturedDocument
@@ -48,6 +49,8 @@ internal object JvmAsync {
 }
 
 fun main() {
+    BrowserSettings.headless()
+
     JvmAsync.loadAll()
     JvmAsync.loadAllAsync2()
     JvmAsync.loadAllAsync3()

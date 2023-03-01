@@ -8,10 +8,19 @@ import ai.platon.pulsar.crawl.common.url.ListenableHyperlink
 import ai.platon.pulsar.crawl.common.url.ParsableHyperlink
 import ai.platon.pulsar.persist.WebPage
 
+import ai.platon.pulsar.browser.common.BrowserSettings
+import ai.platon.pulsar.common.options.LoadOptions
+import ai.platon.pulsar.context.PulsarContexts.createSession
+import ai.platon.pulsar.crawl.fetch.driver.WebDriver
+import ai.platon.pulsar.session.PulsarSession
+import org.slf4j.LoggerFactory
+
 /**
  * Demonstrates various URLs in Pulsar.
  * */
 fun main() {
+    BrowserSettings.headless()
+
     // Create a pulsar session
     val session = PulsarContexts.createSession()
     // The r21.kotlin.pulsar.app.main url we are playing with
