@@ -1,0 +1,521 @@
+2023-03-01 02:35:08,900 --- [output] - DevTools listening on ws://127.0.0.1:43461/devtools/browser/37076ae1-ede5-4df4-aecb-cb7866249670
+2023-03-01 02:35:09,386 --- Connected to ws ws://localhost:43461/devtools/browser/37076ae1-ede5-4df4-aecb-cb7866249670
+2023-03-01 02:35:09,387 --- Connected to ws server ws://localhost:43461/devtools/browser/37076ae1-ede5-4df4-aecb-cb7866249670
+2023-03-01 02:35:09,391 --- Connected to ws ws://localhost:43461/devtools/page/472220CBAF3D18CDDCBDF0ABF7668456
+2023-03-01 02:35:09,391 --- Connected to ws server ws://localhost:43461/devtools/page/472220CBAF3D18CDDCBDF0ABF7668456
+2023-03-01 02:35:09,611 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
+2023-03-01 02:35:16,229 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 02:35:16,230 --- Closing ws server ws://localhost:43461/devtools/page/472220CBAF3D18CDDCBDF0ABF7668456
+2023-03-01 02:35:18,875 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 02:35:18,875 --- Closing ws server ws://localhost:43461/devtools/browser/37076ae1-ede5-4df4-aecb-cb7866249670
+2023-03-01 02:52:39,094 --- [output] - DevTools listening on ws://127.0.0.1:43243/devtools/browser/e138dd8e-dc2a-4d2d-b7c3-c6782ad3c6da
+2023-03-01 02:52:39,592 --- Connected to ws ws://localhost:43243/devtools/browser/e138dd8e-dc2a-4d2d-b7c3-c6782ad3c6da
+2023-03-01 02:52:39,592 --- Connected to ws server ws://localhost:43243/devtools/browser/e138dd8e-dc2a-4d2d-b7c3-c6782ad3c6da
+2023-03-01 02:52:39,597 --- Connected to ws ws://localhost:43243/devtools/page/AB526D317BA9B6B73C217E8BE0E68058
+2023-03-01 02:52:39,597 --- Connected to ws server ws://localhost:43243/devtools/page/AB526D317BA9B6B73C217E8BE0E68058
+2023-03-01 02:52:39,784 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
+2023-03-01 03:28:05,230 --- [output] - DevTools listening on ws://127.0.0.1:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:05,690 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:05,691 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:05,695 --- Connected to ws ws://localhost:38295/devtools/page/B21956BCF648400CF4A25BF3366FB68A
+2023-03-01 03:28:05,695 --- Connected to ws server ws://localhost:38295/devtools/page/B21956BCF648400CF4A25BF3366FB68A
+2023-03-01 03:28:05,937 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
+2023-03-01 03:28:21,061 --- [output] - DevTools listening on ws://127.0.0.1:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,156 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,156 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,172 --- Connected to ws ws://localhost:43285/devtools/page/09DFDDE493825E62E88BC345C30D6E19
+2023-03-01 03:28:21,172 --- Connected to ws server ws://localhost:43285/devtools/page/09DFDDE493825E62E88BC345C30D6E19
+2023-03-01 03:28:21,215 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,215 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,221 --- Connected to ws ws://localhost:43285/devtools/page/665E529CDB779F0381542AB7340EB14D
+2023-03-01 03:28:21,221 --- Connected to ws server ws://localhost:43285/devtools/page/665E529CDB779F0381542AB7340EB14D
+2023-03-01 03:28:21,247 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,247 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,258 --- Connected to ws ws://localhost:38295/devtools/page/AADBFE01B02024851D74F31CE9EB4A0C
+2023-03-01 03:28:21,258 --- Connected to ws server ws://localhost:38295/devtools/page/AADBFE01B02024851D74F31CE9EB4A0C
+2023-03-01 03:28:21,275 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,275 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,285 --- Connected to ws ws://localhost:38295/devtools/page/89D49AB6517DA071B69A52D9B448B04A
+2023-03-01 03:28:21,286 --- Connected to ws server ws://localhost:38295/devtools/page/89D49AB6517DA071B69A52D9B448B04A
+2023-03-01 03:28:21,332 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,332 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,341 --- Connected to ws ws://localhost:38295/devtools/page/2071402D261EC5A8CD23BF0C65274C82
+2023-03-01 03:28:21,341 --- Connected to ws server ws://localhost:38295/devtools/page/2071402D261EC5A8CD23BF0C65274C82
+2023-03-01 03:28:21,387 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,387 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,390 --- Connected to ws ws://localhost:43285/devtools/page/FDCA2D8631E15F206E6F307D989764FB
+2023-03-01 03:28:21,390 --- Connected to ws server ws://localhost:43285/devtools/page/FDCA2D8631E15F206E6F307D989764FB
+2023-03-01 03:28:21,437 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,438 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,442 --- Connected to ws ws://localhost:38295/devtools/page/F88FABE24276580A20DDBF426474039B
+2023-03-01 03:28:21,442 --- Connected to ws server ws://localhost:38295/devtools/page/F88FABE24276580A20DDBF426474039B
+2023-03-01 03:28:21,488 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,488 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,491 --- Connected to ws ws://localhost:43285/devtools/page/8BF757862202797B5D2124A9414C8441
+2023-03-01 03:28:21,491 --- Connected to ws server ws://localhost:43285/devtools/page/8BF757862202797B5D2124A9414C8441
+2023-03-01 03:28:21,541 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,541 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,545 --- Connected to ws ws://localhost:38295/devtools/page/7590D9D9177A3063FC05526DA7933365
+2023-03-01 03:28:21,545 --- Connected to ws server ws://localhost:38295/devtools/page/7590D9D9177A3063FC05526DA7933365
+2023-03-01 03:28:21,588 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,588 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,591 --- Connected to ws ws://localhost:43285/devtools/page/AF8446D92CC0DAAE1F30F82F23857CCE
+2023-03-01 03:28:21,592 --- Connected to ws server ws://localhost:43285/devtools/page/AF8446D92CC0DAAE1F30F82F23857CCE
+2023-03-01 03:28:21,641 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,642 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,644 --- Connected to ws ws://localhost:38295/devtools/page/F3A11FFD3C1EC916AE1E86F150226669
+2023-03-01 03:28:21,645 --- Connected to ws server ws://localhost:38295/devtools/page/F3A11FFD3C1EC916AE1E86F150226669
+2023-03-01 03:28:21,688 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,688 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,691 --- Connected to ws ws://localhost:43285/devtools/page/60E3EA3539A368D41325E0DE8E205D49
+2023-03-01 03:28:21,691 --- Connected to ws server ws://localhost:43285/devtools/page/60E3EA3539A368D41325E0DE8E205D49
+2023-03-01 03:28:21,740 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,740 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,744 --- Connected to ws ws://localhost:38295/devtools/page/CEFC3258CE167C90B9B9D2AF565B3F8F
+2023-03-01 03:28:21,744 --- Connected to ws server ws://localhost:38295/devtools/page/CEFC3258CE167C90B9B9D2AF565B3F8F
+2023-03-01 03:28:21,790 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,790 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,793 --- Connected to ws ws://localhost:43285/devtools/page/8FF5CF7D99EC656B8DF679A0298818DD
+2023-03-01 03:28:21,793 --- Connected to ws server ws://localhost:43285/devtools/page/8FF5CF7D99EC656B8DF679A0298818DD
+2023-03-01 03:28:21,838 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,838 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,842 --- Connected to ws ws://localhost:38295/devtools/page/78D07057F636B5B786B84D3ED37032B3
+2023-03-01 03:28:21,842 --- Connected to ws server ws://localhost:38295/devtools/page/78D07057F636B5B786B84D3ED37032B3
+2023-03-01 03:28:21,890 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,890 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,893 --- Connected to ws ws://localhost:43285/devtools/page/E3463C0CAAF4C00563E684369B085FD6
+2023-03-01 03:28:21,893 --- Connected to ws server ws://localhost:43285/devtools/page/E3463C0CAAF4C00563E684369B085FD6
+2023-03-01 03:28:21,939 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,939 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:21,942 --- Connected to ws ws://localhost:38295/devtools/page/C8D7BCAA783CA3DF8DFC9F5E6B0E1ED4
+2023-03-01 03:28:21,942 --- Connected to ws server ws://localhost:38295/devtools/page/C8D7BCAA783CA3DF8DFC9F5E6B0E1ED4
+2023-03-01 03:28:21,988 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,989 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:21,992 --- Connected to ws ws://localhost:43285/devtools/page/9C67C999095143798CC6CE4CCA14307E
+2023-03-01 03:28:21,992 --- Connected to ws server ws://localhost:43285/devtools/page/9C67C999095143798CC6CE4CCA14307E
+2023-03-01 03:28:22,038 --- Connected to ws ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:22,038 --- Connected to ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:22,042 --- Connected to ws ws://localhost:38295/devtools/page/2AA0E046CCF945D32674CFDB74D877AB
+2023-03-01 03:28:22,042 --- Connected to ws server ws://localhost:38295/devtools/page/2AA0E046CCF945D32674CFDB74D877AB
+2023-03-01 03:28:22,090 --- Connected to ws ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:22,090 --- Connected to ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:22,094 --- Connected to ws ws://localhost:43285/devtools/page/4689FF3598FFFEF377D8972D63263148
+2023-03-01 03:28:22,094 --- Connected to ws server ws://localhost:43285/devtools/page/4689FF3598FFFEF377D8972D63263148
+2023-03-01 03:28:28,188 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,188 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,189 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:38295/devtools/page/C8D7BCAA783CA3DF8DFC9F5E6B0E1ED4
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:38295/devtools/page/CEFC3258CE167C90B9B9D2AF565B3F8F
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:38295/devtools/page/2071402D261EC5A8CD23BF0C65274C82
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/09DFDDE493825E62E88BC345C30D6E19
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/665E529CDB779F0381542AB7340EB14D
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:38295/devtools/page/7590D9D9177A3063FC05526DA7933365
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/AF8446D92CC0DAAE1F30F82F23857CCE
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/8FF5CF7D99EC656B8DF679A0298818DD
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:38295/devtools/page/2AA0E046CCF945D32674CFDB74D877AB
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/FDCA2D8631E15F206E6F307D989764FB
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/9C67C999095143798CC6CE4CCA14307E
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/8BF757862202797B5D2124A9414C8441
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/60E3EA3539A368D41325E0DE8E205D49
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:38295/devtools/page/78D07057F636B5B786B84D3ED37032B3
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:38295/devtools/page/89D49AB6517DA071B69A52D9B448B04A
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/E3463C0CAAF4C00563E684369B085FD6
+2023-03-01 03:28:28,194 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,194 --- Closing ws server ws://localhost:38295/devtools/page/AADBFE01B02024851D74F31CE9EB4A0C
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:43285/devtools/page/4689FF3598FFFEF377D8972D63263148
+2023-03-01 03:28:28,190 --- Closing ws server ws://localhost:38295/devtools/page/F3A11FFD3C1EC916AE1E86F150226669
+2023-03-01 03:28:28,194 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,194 --- Closing ws server ws://localhost:38295/devtools/page/B21956BCF648400CF4A25BF3366FB68A
+2023-03-01 03:28:28,194 --- Closing ws server ws://localhost:38295/devtools/page/F88FABE24276580A20DDBF426474039B
+2023-03-01 03:28:28,355 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,355 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,355 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,355 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,355 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,355 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,355 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,355 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,355 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,355 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,355 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,355 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,356 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,356 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,355 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,356 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,355 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,356 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,356 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,356 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,356 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,358 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,358 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,358 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,358 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,356 --- Closing ws server ws://localhost:38295/devtools/browser/32bfc578-12c0-4bff-b561-7bfbf60b6e2f
+2023-03-01 03:28:28,358 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,358 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,358 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,359 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:28,358 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,358 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:28,359 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:28,358 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:28,358 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:28,358 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:28,359 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:28,359 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:28,359 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,359 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:28:28,359 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:28:28,359 --- Closing ws server ws://localhost:43285/devtools/browser/b4190cfe-388e-4e72-aff5-f14794fde807
+2023-03-01 03:29:09,095 --- [output] - DevTools listening on ws://127.0.0.1:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:09,575 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:09,576 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:09,580 --- Connected to ws ws://localhost:37487/devtools/page/5D5733153CFB54D15BF4DCEC85133BB3
+2023-03-01 03:29:09,580 --- Connected to ws server ws://localhost:37487/devtools/page/5D5733153CFB54D15BF4DCEC85133BB3
+2023-03-01 03:29:09,882 --- [output] - DevTools listening on ws://127.0.0.1:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:09,982 --- Connected to ws ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:09,982 --- Connected to ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,010 --- Connected to ws ws://localhost:43941/devtools/page/ABC52990D3A9B98E9524A67A774AD43C
+2023-03-01 03:29:10,011 --- Connected to ws server ws://localhost:43941/devtools/page/ABC52990D3A9B98E9524A67A774AD43C
+2023-03-01 03:29:10,037 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,037 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,064 --- Connected to ws ws://localhost:37487/devtools/page/EC87D73680B074C8B8F8D5D1EEE10E15
+2023-03-01 03:29:10,064 --- Connected to ws server ws://localhost:37487/devtools/page/EC87D73680B074C8B8F8D5D1EEE10E15
+2023-03-01 03:29:10,100 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,100 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,107 --- Connected to ws ws://localhost:37487/devtools/page/4EEB7C3FFD0E726A19FE7796840B1F85
+2023-03-01 03:29:10,108 --- Connected to ws server ws://localhost:37487/devtools/page/4EEB7C3FFD0E726A19FE7796840B1F85
+2023-03-01 03:29:10,140 --- Connected to ws ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,140 --- Connected to ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,145 --- Connected to ws ws://localhost:43941/devtools/page/B12359FB609AE0DA53F64E9663EB942B
+2023-03-01 03:29:10,145 --- Connected to ws server ws://localhost:43941/devtools/page/B12359FB609AE0DA53F64E9663EB942B
+2023-03-01 03:29:10,190 --- Connected to ws ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,190 --- Connected to ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,194 --- Connected to ws ws://localhost:43941/devtools/page/EDC98A3046D5020A54F3AED87F8D158F
+2023-03-01 03:29:10,194 --- Connected to ws server ws://localhost:43941/devtools/page/EDC98A3046D5020A54F3AED87F8D158F
+2023-03-01 03:29:10,228 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,228 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,231 --- Connected to ws ws://localhost:37487/devtools/page/C10459790F2CC5E1DD9E980CF1E6DA14
+2023-03-01 03:29:10,232 --- Connected to ws server ws://localhost:37487/devtools/page/C10459790F2CC5E1DD9E980CF1E6DA14
+2023-03-01 03:29:10,274 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,274 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,279 --- Connected to ws ws://localhost:37487/devtools/page/CBE3B1F5806A10EB05E13B14777BF459
+2023-03-01 03:29:10,279 --- Connected to ws server ws://localhost:37487/devtools/page/CBE3B1F5806A10EB05E13B14777BF459
+2023-03-01 03:29:10,325 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,325 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,328 --- Connected to ws ws://localhost:37487/devtools/page/FBC45AE7C3619339DC46ECC389485A56
+2023-03-01 03:29:10,328 --- Connected to ws server ws://localhost:37487/devtools/page/FBC45AE7C3619339DC46ECC389485A56
+2023-03-01 03:29:10,360 --- Connected to ws ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,360 --- Connected to ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,364 --- Connected to ws ws://localhost:43941/devtools/page/5616E4F3A0B5D22BA766F9F66EF35AB3
+2023-03-01 03:29:10,364 --- Connected to ws server ws://localhost:43941/devtools/page/5616E4F3A0B5D22BA766F9F66EF35AB3
+2023-03-01 03:29:10,414 --- Connected to ws ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,414 --- Connected to ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,417 --- Connected to ws ws://localhost:43941/devtools/page/D6139450669BE417D1F2EA38AEB89E03
+2023-03-01 03:29:10,418 --- Connected to ws server ws://localhost:43941/devtools/page/D6139450669BE417D1F2EA38AEB89E03
+2023-03-01 03:29:10,458 --- Connected to ws ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,458 --- Connected to ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,461 --- Connected to ws ws://localhost:43941/devtools/page/866B657A8EA050B0B7E520298278A846
+2023-03-01 03:29:10,462 --- Connected to ws server ws://localhost:43941/devtools/page/866B657A8EA050B0B7E520298278A846
+2023-03-01 03:29:10,491 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,491 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,495 --- Connected to ws ws://localhost:37487/devtools/page/E034C05CEC3E8F8EB8BBF9C5AC430DD2
+2023-03-01 03:29:10,495 --- Connected to ws server ws://localhost:37487/devtools/page/E034C05CEC3E8F8EB8BBF9C5AC430DD2
+2023-03-01 03:29:10,527 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,527 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,533 --- Connected to ws ws://localhost:37487/devtools/page/D753430E31ED9D065D6013D58E36F082
+2023-03-01 03:29:10,533 --- Connected to ws server ws://localhost:37487/devtools/page/D753430E31ED9D065D6013D58E36F082
+2023-03-01 03:29:10,557 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,557 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,571 --- Connected to ws ws://localhost:37487/devtools/page/5965980ABD8F3E59F40264614D4156E9
+2023-03-01 03:29:10,571 --- Connected to ws server ws://localhost:37487/devtools/page/5965980ABD8F3E59F40264614D4156E9
+2023-03-01 03:29:10,614 --- Connected to ws ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,614 --- Connected to ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,646 --- Connected to ws ws://localhost:43941/devtools/page/0ADC7FAF8585D880A128ADDECB837630
+2023-03-01 03:29:10,646 --- Connected to ws server ws://localhost:43941/devtools/page/0ADC7FAF8585D880A128ADDECB837630
+2023-03-01 03:29:10,687 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,687 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,693 --- Connected to ws ws://localhost:37487/devtools/page/D3BF06BBE02C8593E5490A3F0EDD0F34
+2023-03-01 03:29:10,693 --- Connected to ws server ws://localhost:37487/devtools/page/D3BF06BBE02C8593E5490A3F0EDD0F34
+2023-03-01 03:29:10,740 --- Connected to ws ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,740 --- Connected to ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,757 --- Connected to ws ws://localhost:43941/devtools/page/C5294BB8283B8A01AA80B96D83188988
+2023-03-01 03:29:10,757 --- Connected to ws server ws://localhost:43941/devtools/page/C5294BB8283B8A01AA80B96D83188988
+2023-03-01 03:29:10,776 --- Connected to ws ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,776 --- Connected to ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:10,780 --- Connected to ws ws://localhost:43941/devtools/page/CA5F4B6B0154C084CF08D1FE7F64BF64
+2023-03-01 03:29:10,780 --- Connected to ws server ws://localhost:43941/devtools/page/CA5F4B6B0154C084CF08D1FE7F64BF64
+2023-03-01 03:29:10,825 --- Connected to ws ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,825 --- Connected to ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:10,829 --- Connected to ws ws://localhost:37487/devtools/page/6438801E59F5EEB175A7204BCEC73CB8
+2023-03-01 03:29:10,829 --- Connected to ws server ws://localhost:37487/devtools/page/6438801E59F5EEB175A7204BCEC73CB8
+2023-03-01 03:29:14,096 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,043 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:37487/devtools/page/4EEB7C3FFD0E726A19FE7796840B1F85
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/page/EDC98A3046D5020A54F3AED87F8D158F
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:37487/devtools/page/5965980ABD8F3E59F40264614D4156E9
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/page/866B657A8EA050B0B7E520298278A846
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:43941/devtools/page/B12359FB609AE0DA53F64E9663EB942B
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,045 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:20,045 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/page/C5294BB8283B8A01AA80B96D83188988
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:37487/devtools/page/E034C05CEC3E8F8EB8BBF9C5AC430DD2
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/page/0ADC7FAF8585D880A128ADDECB837630
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:37487/devtools/page/D753430E31ED9D065D6013D58E36F082
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/page/5D5733153CFB54D15BF4DCEC85133BB3
+2023-03-01 03:29:20,044 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/page/ABC52990D3A9B98E9524A67A774AD43C
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/page/6438801E59F5EEB175A7204BCEC73CB8
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:37487/devtools/page/D3BF06BBE02C8593E5490A3F0EDD0F34
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:20,044 --- Closing ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:43941/devtools/page/CA5F4B6B0154C084CF08D1FE7F64BF64
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:20,045 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:43941/devtools/browser/c3508cb6-f045-47ca-b838-2b26cef8e310
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/page/FBC45AE7C3619339DC46ECC389485A56
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/page/C10459790F2CC5E1DD9E980CF1E6DA14
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:43941/devtools/page/D6139450669BE417D1F2EA38AEB89E03
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:43941/devtools/page/5616E4F3A0B5D22BA766F9F66EF35AB3
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/page/EC87D73680B074C8B8F8D5D1EEE10E15
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/page/CBE3B1F5806A10EB05E13B14777BF459
+2023-03-01 03:29:20,045 --- Closing ws server ws://localhost:37487/devtools/browser/e92a0261-c7df-4c0b-922e-b98dddbb0f0b
+2023-03-01 04:10:34,538 --- [output] - DevTools listening on ws://127.0.0.1:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:10:35,000 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:10:35,000 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:10:35,005 --- Connected to ws ws://localhost:36289/devtools/page/7B0D6983CDB037D5B5C83A0DEC0336DD
+2023-03-01 04:10:35,005 --- Connected to ws server ws://localhost:36289/devtools/page/7B0D6983CDB037D5B5C83A0DEC0336DD
+2023-03-01 04:10:35,213 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
+2023-03-01 04:11:00,272 --- [output] - DevTools listening on ws://127.0.0.1:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,370 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,370 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,395 --- Connected to ws ws://localhost:43919/devtools/page/EE96954993D100E6CCFED9A3E060EF77
+2023-03-01 04:11:00,395 --- Connected to ws server ws://localhost:43919/devtools/page/EE96954993D100E6CCFED9A3E060EF77
+2023-03-01 04:11:00,442 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,442 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,453 --- Connected to ws ws://localhost:36289/devtools/page/8617808FECDB1E02D184FFFA48C4055E
+2023-03-01 04:11:00,454 --- Connected to ws server ws://localhost:36289/devtools/page/8617808FECDB1E02D184FFFA48C4055E
+2023-03-01 04:11:00,488 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,488 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,500 --- Connected to ws ws://localhost:36289/devtools/page/4DB91A204592774E52C120B73B53F05F
+2023-03-01 04:11:00,500 --- Connected to ws server ws://localhost:36289/devtools/page/4DB91A204592774E52C120B73B53F05F
+2023-03-01 04:11:00,577 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,578 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,582 --- Connected to ws ws://localhost:43919/devtools/page/00F0E3C4AB03BFF5EE7BEEAAD775FC8D
+2023-03-01 04:11:00,582 --- Connected to ws server ws://localhost:43919/devtools/page/00F0E3C4AB03BFF5EE7BEEAAD775FC8D
+2023-03-01 04:11:00,619 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,619 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,625 --- Connected to ws ws://localhost:36289/devtools/page/E5816C4640B780BC0CD98A3CDC8258B6
+2023-03-01 04:11:00,625 --- Connected to ws server ws://localhost:36289/devtools/page/E5816C4640B780BC0CD98A3CDC8258B6
+2023-03-01 04:11:00,669 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,669 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,692 --- Connected to ws ws://localhost:43919/devtools/page/ACF235716620B44C2EA37BC7DFE09958
+2023-03-01 04:11:00,692 --- Connected to ws server ws://localhost:43919/devtools/page/ACF235716620B44C2EA37BC7DFE09958
+2023-03-01 04:11:00,734 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,734 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,743 --- Connected to ws ws://localhost:36289/devtools/page/B7D2ADBA4523A2DDEFBD37E4C369ED2E
+2023-03-01 04:11:00,744 --- Connected to ws server ws://localhost:36289/devtools/page/B7D2ADBA4523A2DDEFBD37E4C369ED2E
+2023-03-01 04:11:00,766 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,766 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,796 --- Connected to ws ws://localhost:43919/devtools/page/AEEE3E72AC593461A7F08218C5F13305
+2023-03-01 04:11:00,796 --- Connected to ws server ws://localhost:43919/devtools/page/AEEE3E72AC593461A7F08218C5F13305
+2023-03-01 04:11:00,820 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,820 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,824 --- Connected to ws ws://localhost:36289/devtools/page/850E52D5C986956B11223C9C423A27F8
+2023-03-01 04:11:00,824 --- Connected to ws server ws://localhost:36289/devtools/page/850E52D5C986956B11223C9C423A27F8
+2023-03-01 04:11:00,858 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,858 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,861 --- Connected to ws ws://localhost:43919/devtools/page/A4D29045F8D2613BF781833846C126C8
+2023-03-01 04:11:00,861 --- Connected to ws server ws://localhost:43919/devtools/page/A4D29045F8D2613BF781833846C126C8
+2023-03-01 04:11:00,902 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,902 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:00,917 --- Connected to ws ws://localhost:36289/devtools/page/0C39C807EFAF06C610E36FC656976CE3
+2023-03-01 04:11:00,917 --- Connected to ws server ws://localhost:36289/devtools/page/0C39C807EFAF06C610E36FC656976CE3
+2023-03-01 04:11:00,942 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,942 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:00,944 --- Connected to ws ws://localhost:43919/devtools/page/6D612C4256C117B2F6A581909EFFBB79
+2023-03-01 04:11:00,945 --- Connected to ws server ws://localhost:43919/devtools/page/6D612C4256C117B2F6A581909EFFBB79
+2023-03-01 04:11:01,007 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:01,007 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:01,016 --- Connected to ws ws://localhost:36289/devtools/page/E5F67ADC8ACD852EEAD1F0BE16A0094D
+2023-03-01 04:11:01,017 --- Connected to ws server ws://localhost:36289/devtools/page/E5F67ADC8ACD852EEAD1F0BE16A0094D
+2023-03-01 04:11:01,054 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:01,054 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:01,057 --- Connected to ws ws://localhost:43919/devtools/page/49EB3AB390308F0123A31012856B7DB9
+2023-03-01 04:11:01,058 --- Connected to ws server ws://localhost:43919/devtools/page/49EB3AB390308F0123A31012856B7DB9
+2023-03-01 04:11:01,089 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:01,089 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:01,094 --- Connected to ws ws://localhost:36289/devtools/page/52F81F3062484E809DA304158CC455C8
+2023-03-01 04:11:01,094 --- Connected to ws server ws://localhost:36289/devtools/page/52F81F3062484E809DA304158CC455C8
+2023-03-01 04:11:01,137 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:01,137 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:01,140 --- Connected to ws ws://localhost:43919/devtools/page/C19B09351CF50B9032EEB133EFDCBD0C
+2023-03-01 04:11:01,140 --- Connected to ws server ws://localhost:43919/devtools/page/C19B09351CF50B9032EEB133EFDCBD0C
+2023-03-01 04:11:01,188 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:01,188 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:01,191 --- Connected to ws ws://localhost:36289/devtools/page/A99371FFE129E100FA22863C47552ACC
+2023-03-01 04:11:01,191 --- Connected to ws server ws://localhost:36289/devtools/page/A99371FFE129E100FA22863C47552ACC
+2023-03-01 04:11:01,224 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:01,225 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:01,228 --- Connected to ws ws://localhost:43919/devtools/page/AD6969F41B1385B3AC063DC43F2A13DF
+2023-03-01 04:11:01,228 --- Connected to ws server ws://localhost:43919/devtools/page/AD6969F41B1385B3AC063DC43F2A13DF
+2023-03-01 04:11:01,256 --- Connected to ws ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:01,256 --- Connected to ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:01,261 --- Connected to ws ws://localhost:36289/devtools/page/C2755D052EA8C051E0AF0957C8C31E15
+2023-03-01 04:11:01,261 --- Connected to ws server ws://localhost:36289/devtools/page/C2755D052EA8C051E0AF0957C8C31E15
+2023-03-01 04:11:01,303 --- Connected to ws ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:01,304 --- Connected to ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:01,311 --- Connected to ws ws://localhost:43919/devtools/page/F23B38BEDAC6068846075C6FC63D800F
+2023-03-01 04:11:01,311 --- Connected to ws server ws://localhost:43919/devtools/page/F23B38BEDAC6068846075C6FC63D800F
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:43919/devtools/page/EE96954993D100E6CCFED9A3E060EF77
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:36289/devtools/page/8617808FECDB1E02D184FFFA48C4055E
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:43919/devtools/page/AD6969F41B1385B3AC063DC43F2A13DF
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:43919/devtools/page/C19B09351CF50B9032EEB133EFDCBD0C
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:43919/devtools/page/6D612C4256C117B2F6A581909EFFBB79
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:36289/devtools/page/E5816C4640B780BC0CD98A3CDC8258B6
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/page/A99371FFE129E100FA22863C47552ACC
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/page/7B0D6983CDB037D5B5C83A0DEC0336DD
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/page/AEEE3E72AC593461A7F08218C5F13305
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/page/00F0E3C4AB03BFF5EE7BEEAAD775FC8D
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/page/A4D29045F8D2613BF781833846C126C8
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,084 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/page/52F81F3062484E809DA304158CC455C8
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/page/C2755D052EA8C051E0AF0957C8C31E15
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,087 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:36289/devtools/page/850E52D5C986956B11223C9C423A27F8
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:36289/devtools/page/B7D2ADBA4523A2DDEFBD37E4C369ED2E
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:43919/devtools/page/ACF235716620B44C2EA37BC7DFE09958
+2023-03-01 04:11:42,089 --- Closing ws server ws://localhost:36289/devtools/page/4DB91A204592774E52C120B73B53F05F
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,085 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:42,085 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,093 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/page/F23B38BEDAC6068846075C6FC63D800F
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/page/E5F67ADC8ACD852EEAD1F0BE16A0094D
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:36289/devtools/page/0C39C807EFAF06C610E36FC656976CE3
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/page/49EB3AB390308F0123A31012856B7DB9
+2023-03-01 04:11:42,086 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
+2023-03-01 04:11:42,087 --- Closing ws server ws://localhost:36289/devtools/browser/ccba19b2-e87c-49ed-b3e3-4f93c43980c9
+2023-03-01 04:11:42,087 --- Closing ws server ws://localhost:43919/devtools/browser/4a39e386-9d5e-4beb-a154-744f0c27cb88
