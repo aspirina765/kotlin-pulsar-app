@@ -68,3 +68,5 @@
 05:03:54.245 [main] INFO  a.p.p.c.c.L.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc
 05:05:21.516 [main] INFO  a.p.p.c.c.L.Task -   2. 💯 ⚡ U for N got 200 963,12 KiB [💿1.001,08 KiB] in 13.209s, fc:1 | 53/207/43/142/5079 | 19gGcS2 | file:///tmp/ln/75b42c2501d270e8645a002894b5abb2.htm | https://www.mercadolivre.com.br/c/celulares-e-telefones -expires PT24H -ignoreFailure -itemExpires PT120H -outLinkSelector a[href~=-cat-]
 05:05:21.516 [main] INFO  a.p.p.c.c.L.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc
+20:31:55.052 [main] INFO  a.p.p.c.c.L.Task -   2. 💯 ⚡ U for N got 200 966,76 KiB [💿1.005,90 KiB] in 12.647s, fc:1 | 53/207/46/145/5097 | 1LBSU22 | file:///tmp/ln/75b42c2501d270e8645a002894b5abb2.htm | https://www.mercadolivre.com.br/c/celulares-e-telefones -expires PT24H -ignoreFailure -itemExpires PT120H -outLinkSelector a[href~=-cat-]
+20:31:55.052 [main] INFO  a.p.p.c.c.L.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc

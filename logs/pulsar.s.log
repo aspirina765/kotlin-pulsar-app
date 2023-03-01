@@ -421,3 +421,42 @@
 05:05:21.718 [Thread-5] INFO  a.p.p.p.b.e.context.WebDriverContext - Web driver context is closed successfully (shutdown) | 19gGcS21 | {pulsar_chrome | /tmp/pulsar-rhel9prod/context/cx.19gGcS2}
 05:05:21.718 [Thread-5] INFO  a.p.p.p.b.e.context.WebDriverContext - Web driver context is closed successfully (shutdown) | 19gGcS21 | {pulsar_chrome | /tmp/pulsar-rhel9prod/context/cx.19gGcS2}
 05:05:21.795 [Thread-6] INFO  ai.platon.pulsar.common.Runtimes - Exit | rhel9prod 47349  46843  2023-03-01T08:05:06.600Z  PT0.52S    /opt/google/chrome/chrome 
+20:31:11.524 [main] INFO  a.p.p.c.config.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-default.xml
+20:31:11.528 [main] INFO  a.p.p.c.config.AbstractConfiguration - Find legacy resource: jar:file:/home/rhel9prod/.m2/repository/ai/platon/pulsar/pulsar-skeleton/1.10.9-SNAPSHOT/pulsar-skeleton-1.10.9-SNAPSHOT.jar!/config/legacy/pulsar-site.xml
+20:31:11.529 [main] INFO  a.p.p.c.config.AbstractConfiguration - Resource not find: pulsar-task.xml
+20:31:11.558 [main] INFO  a.p.p.c.config.AbstractConfiguration - profile: <> | [pulsar-default.xml, pulsar-site.xml]
+20:31:12.025 [main] INFO  a.p.p.crawl.protocol.ProtocolFactory - Supported protocols: crowd, browser
+20:31:12.052 [main] INFO  a.p.p.c.parse.html.PrimerHtmlParser - className: PrimerHtmlParser defaultCharEncoding: utf-8
+20:31:12.132 [main] INFO  a.p.pulsar.crawl.parse.PageParser - maxParseTime: PT1M maxParsedLinks: 200 groupMode: BY_HOST ignoreExternalLinks: false maxUrlLength: 1024
+20:31:12.171 [main] INFO  a.p.p.crawl.impl.StreamingCrawlLoop - Crawl loop is created | @435297131
+20:31:12.262 [main] INFO  a.p.pulsar.context.PulsarContexts - Active context | ai.platon.pulsar.context.support.StaticPulsarContext#1
+20:31:27.082 [main] INFO  a.p.pulsar.persist.gora.GoraStorage - Backend data store: FileBackendPageStore realSchema: FileBackendPageStore
+20:31:41.045 [main] INFO  a.p.p.p.AutoDetectStorageProvider - Storage is created: class ai.platon.pulsar.persist.gora.FileBackendPageStore realSchema: FileBackendPageStore
+20:31:41.247 [main] INFO  a.p.p.c.f.p.PrivacyContextIdGeneratorFactory - Using id generator f.p.SequentialPrivacyContextIdGenerator
+20:31:41.272 [main] INFO  a.p.p.p.b.e.c.BasicPrivacyContextManager - Privacy context is created #1LBSU22
+20:31:41.272 [main] INFO  a.p.p.p.b.e.c.BasicPrivacyContextManager - Privacy context is created #1LBSU22
+20:31:41.377 [main] INFO  ai.platon.pulsar.common.AppContext - Version: Linux version 5.14.0-162.18.1.el9_1.x86_64 (mockbuild@x86-vm-09.build.eng.bos.redhat.com) (gcc (GCC) 11.3.1 20220421 (Red Hat 11.3.1-2), GNU ld version 2.35.2-24.el9) #1 SMP PREEMPT_DYNAMIC Thu Feb 9 04:28:41 EST 2023
+
+20:31:41.396 [main] INFO  a.p.pulsar.common.ProcessLauncher - Launching process:
+/usr/bin/google-chrome-stable --headless --disable-gpu --hide-scrollbars --remote-debugging-port=0 --no-default-browser-check --no-first-run --no-startup-window --mute-audio --disable-background-networking --disable-background-timer-throttling --disable-client-side-phishing-detection --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-translate --disable-blink-features=AutomationControlled --metrics-recording-only --safebrowsing-disable-auto-update --no-sandbox --ignore-certificate-errors --window-size=1920,1080 --pageLoadStrategy=none --throwExceptionOnScriptError=true --user-data-dir=/tmp/pulsar-rhel9prod/context/browser/br.3hlv8
+20:31:55.052 [main] INFO  a.p.p.c.component.LoadComponent.Task -   2. 💯 ⚡ U for N got 200 966,76 KiB [💿1.005,90 KiB] in 12.647s, fc:1 | 53/207/46/145/5097 | 1LBSU22 | file:///tmp/ln/75b42c2501d270e8645a002894b5abb2.htm | https://www.mercadolivre.com.br/c/celulares-e-telefones -expires PT24H -ignoreFailure -itemExpires PT120H -outLinkSelector a[href~=-cat-]
+20:31:55.052 [main] INFO  a.p.p.c.component.LoadComponent.Task -   2. 💯 ⚡ U for N got 200 966,76 KiB [💿1.005,90 KiB] in 12.647s, fc:1 | 53/207/46/145/5097 | 1LBSU22 | file:///tmp/ln/75b42c2501d270e8645a002894b5abb2.htm | https://www.mercadolivre.com.br/c/celulares-e-telefones -expires PT24H -ignoreFailure -itemExpires PT120H -outLinkSelector a[href~=-cat-]
+20:31:55.052 [main] INFO  a.p.p.c.component.LoadComponent.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc
+20:31:55.052 [main] INFO  a.p.p.c.component.LoadComponent.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc
+20:31:55.180 [main] INFO  a.p.p.crawl.impl.StreamingCrawlLoop - Registered 15 link collectors | loop#1 @435297131
+20:31:55.202 [Thread-5] INFO  a.p.p.c.s.AbstractPulsarContext - Closing context #1/2 | StaticPulsarContext
+20:31:55.202 [-worker-12] INFO  a.p.p.crawl.impl.StreamingCrawler - Starting StreamingCrawler #1 ...
+20:31:55.202 [-worker-12] INFO  a.p.p.crawl.impl.StreamingCrawler - Starting StreamingCrawler #1 ...
+20:31:55.206 [-worker-12] INFO  a.p.p.crawl.impl.StreamingCrawler - All done. Total 0 tasks are processed in session #1000002 in 0s
+20:31:55.206 [-worker-12] INFO  a.p.p.crawl.impl.StreamingCrawler - All done. Total 0 tasks are processed in session #1000002 in 0s
+20:31:55.212 [Thread-5] INFO  a.p.p.session.AbstractPulsarSession - Session is closed | #1000002
+20:31:55.213 [Thread-5] INFO  a.p.p.session.AbstractPulsarSession - Session is closed | #1000001
+20:31:55.215 [Thread-5] INFO  a.p.p.p.b.d.WebDriverPoolManager - Web driver pool manager is closed
+20:31:55.215 [Thread-5] INFO  a.p.p.c.fetch.privacy.PrivacyManager - Closing privacy contexts ...
+20:31:55.219 [Thread-5] INFO  a.p.p.p.b.e.c.BrowserPrivacyContext - Privacy context #1LBSU22 has lived for 13s | success: 1(0,07 pages/s) | small: 0(0,0%) | traffic: 0 B(0 B/s) | tasks: 1 total run: 1 | null
+20:31:55.219 [Thread-5] INFO  a.p.p.p.b.e.c.BrowserPrivacyContext - Privacy context #1LBSU22 has lived for 13s | success: 1(0,07 pages/s) | small: 0(0,0%) | traffic: 0 B(0 B/s) | tasks: 1 total run: 1 | null
+20:31:55.222 [Thread-5] INFO  a.p.p.p.b.e.context.WebDriverContext - All tasks return in 0 seconds (shutdown) | 1LBSU221
+20:31:55.222 [Thread-5] INFO  a.p.p.p.b.e.context.WebDriverContext - All tasks return in 0 seconds (shutdown) | 1LBSU221
+20:31:55.224 [Thread-5] INFO  a.p.p.p.b.e.context.WebDriverContext - Web driver context is closed successfully (shutdown) | 1LBSU221 | {pulsar_chrome | /tmp/pulsar-rhel9prod/context/cx.1LBSU22}
+20:31:55.224 [Thread-5] INFO  a.p.p.p.b.e.context.WebDriverContext - Web driver context is closed successfully (shutdown) | 1LBSU221 | {pulsar_chrome | /tmp/pulsar-rhel9prod/context/cx.1LBSU22}
+20:31:55.312 [Thread-6] INFO  ai.platon.pulsar.common.Runtimes - Exit | rhel9prod 43007  42914  2023-03-01T23:31:40.510Z  PT0.51S    /opt/google/chrome/chrome 

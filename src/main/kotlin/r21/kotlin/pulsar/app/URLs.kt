@@ -1,5 +1,6 @@
 package r21.kotlin.pulsar.app
 
+import ai.platon.pulsar.browser.common.BrowserSettings
 import ai.platon.pulsar.common.urls.Hyperlink
 import ai.platon.pulsar.common.urls.PlainUrl
 import ai.platon.pulsar.context.PulsarContexts
@@ -7,13 +8,6 @@ import ai.platon.pulsar.crawl.common.url.CompletableListenableHyperlink
 import ai.platon.pulsar.crawl.common.url.ListenableHyperlink
 import ai.platon.pulsar.crawl.common.url.ParsableHyperlink
 import ai.platon.pulsar.persist.WebPage
-
-import ai.platon.pulsar.browser.common.BrowserSettings
-import ai.platon.pulsar.common.options.LoadOptions
-import ai.platon.pulsar.context.PulsarContexts.createSession
-import ai.platon.pulsar.crawl.fetch.driver.WebDriver
-import ai.platon.pulsar.session.PulsarSession
-import org.slf4j.LoggerFactory
 
 /**
  * Demonstrates various URLs in Pulsar.
@@ -46,14 +40,14 @@ fun main() {
     // Option `-outLink` specifies the cssSelector to select links in the portal page to load.
     // Option `-topLinks` specifies the maximal number of links selected by `-outLink`.
     val hyperlink = Hyperlink(url, args = "-expires 10s -itemExpires 10s")
-    val pages = session.loadOutPages(hyperlink, "-headless -outLink a[href~=/dp/] -topLinks 5")
+    val pages = session.loadOutPages(hyperlink, " -outLink a[href~=/dp/] -topLinks 5")
     println("Hyperlink's out pages are loaded | " + pages.size)
 
     // Load the portal page and submit the out links specified by `-outLink` to the URL pool.
     // Option `-outLink` specifies the cssSelector to select links in the portal page to submit.
     // Option `-topLinks` specifies the maximal number of links selected by `-outLink`.
     val hyperlink2 = Hyperlink(url, args = "-expires 1d -itemExpires 7d")
-    session.submitOutPages(hyperlink2, " -headless -outLink a[href~=/dp/] -topLinks 5")
+    session.submitOutPages(hyperlink2, " -outLink a[href~=/dp/] -topLinks 5")
 
     //
     // 3. ParsableHyperlink

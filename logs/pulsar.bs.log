@@ -547,3 +547,18 @@
 2023-03-01 05:05:21,794 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
 2023-03-01 05:05:21,795 --- Closing ws server ws://localhost:36993/devtools/page/DA8DD915CE4310CA1E33349B06CC03BB
 2023-03-01 05:05:21,795 --- Closing ws server ws://localhost:36993/devtools/browser/0b890ed5-ae9a-458a-a650-d5b8eb221025
+2023-03-01 20:31:41,429 --- [output] - [0301/203141.428773:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/76c67c71-8d6c-44bc-a471-2d1f0d9db2cd.lock: File exists (17)
+2023-03-01 20:31:41,429 --- [output] - [0301/203141.428853:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/37bdc152-4358-40a4-a397-16b315e62dab.lock: File exists (17)
+2023-03-01 20:31:41,429 --- [output] - [0301/203141.428863:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/ab0a3b50-82d9-463c-84e3-21c77a583b03.lock: File exists (17)
+2023-03-01 20:31:41,429 --- [output] - [0301/203141.428872:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/c04a9de6-2ee3-4021-a804-4b2f82404a9b.lock: File exists (17)
+2023-03-01 20:31:41,429 --- [output] - [0301/203141.428881:ERROR:file_io_posix.cc(152)] open /tmp/Crashpad/pending/7af6c246-fbaf-4005-b1ed-0e972fb38310.lock: File exists (17)
+2023-03-01 20:31:41,482 --- [output] - DevTools listening on ws://127.0.0.1:42933/devtools/browser/528c2aaa-292f-4059-bfb3-6621ce6111f5
+2023-03-01 20:31:41,902 --- Connected to ws ws://localhost:42933/devtools/browser/528c2aaa-292f-4059-bfb3-6621ce6111f5
+2023-03-01 20:31:41,902 --- Connected to ws server ws://localhost:42933/devtools/browser/528c2aaa-292f-4059-bfb3-6621ce6111f5
+2023-03-01 20:31:41,907 --- Connected to ws ws://localhost:42933/devtools/page/A940365EB2EE8CBC732131B92BEBBF12
+2023-03-01 20:31:41,907 --- Connected to ws server ws://localhost:42933/devtools/page/A940365EB2EE8CBC732131B92BEBBF12
+2023-03-01 20:31:42,108 --- Generated js: file:///tmp/pulsar-rhel9prod/report/browser/js/preload.gen.js
+2023-03-01 20:31:55,313 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 20:31:55,313 --- Web socket connection closed CLOSED_ABNORMALLY Closed abnormally.
+2023-03-01 20:31:55,314 --- Closing ws server ws://localhost:42933/devtools/browser/528c2aaa-292f-4059-bfb3-6621ce6111f5
+2023-03-01 20:31:55,314 --- Closing ws server ws://localhost:42933/devtools/page/A940365EB2EE8CBC732131B92BEBBF12

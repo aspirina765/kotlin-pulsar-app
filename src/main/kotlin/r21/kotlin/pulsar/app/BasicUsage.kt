@@ -32,7 +32,7 @@ fun main() {
     // Load the portal page and then load all links specified by `-outLink`.
     // Option `-outLink` specifies the cssSelector to select links in the portal page to load.
     // Option `-topLinks` specifies the maximal number of links selected by `-outLink`.
-    val pages = session.loadOutPages(url, " -headless -expires 10s -itemExpires 10s -outLink a[href~=/dp/] -topLinks 10")
+    val pages = session.loadOutPages(url, " -expires 10s -itemExpires 10s -outLink a[href~=/dp/] -topLinks 10")
 
     // Load the portal page and submit the out links specified by `-outLink` to the URL pool.
     // Option `-outLink` specifies the cssSelector to select links in the portal page to submit.

@@ -2,7 +2,6 @@ package r21.kotlin.pulsar.app
 
 import ai.platon.pulsar.browser.common.BrowserSettings
 import ai.platon.pulsar.context.PulsarContexts
-import ai.platon.pulsar.crawl.common.url.ParsableHyperlink
 
 /**
  * Demonstrates the usage of load options.
@@ -74,7 +73,6 @@ fun main() {
     // 3. `-itemRequireImages` specifies the minimal number of images in the page.
     // 4. `-itemRequireAnchors` specifies the minimal number of anchors in the page.
     var pages = session.loadOutPages(url, "-expires 10s" +
-            " -headless" +
             " -itemExpires 7d" +
             " -outLink a[href~=item]" +
             " -topLinks 10" +
