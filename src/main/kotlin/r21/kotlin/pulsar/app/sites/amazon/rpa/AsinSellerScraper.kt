@@ -1,6 +1,6 @@
 package r21.kotlin.pulsar.app.sites.amazon.rpa.AsinSellerScraper
 
-import ai.platon.pulsar.browser.common.BrowserSettings
+
 import ai.platon.pulsar.common.*
 import ai.platon.pulsar.common.config.CapabilityTypes
 import ai.platon.pulsar.common.sql.ResultSetFormatter

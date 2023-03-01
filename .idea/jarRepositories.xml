@@ -27,6 +27,11 @@
       <option name="url" value="https://mvnrepository.com/artifact/org.springframework.boot/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="alimaven" />
+      <option name="name" value="aliyun maven" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="jboss-public-repository" />
       <option name="name" value="JBoss Public Repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/groups/public/" />

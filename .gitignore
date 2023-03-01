@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+.gitsecret/keys/random_seed
+!*.secret
+223.8617.56.vmoptions

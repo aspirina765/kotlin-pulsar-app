@@ -97,19 +97,23 @@
         <dependency>
             <groupId>ai.platon.pulsar</groupId>
             <artifactId>pulsar-persist</artifactId>
+            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>ai.platon.pulsar</groupId>
             <artifactId>pulsar-beans</artifactId>
+            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>ai.platon.pulsar</groupId>
             <artifactId>pulsar-ql</artifactId>
+            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>ai.platon.pulsar</groupId>
             <artifactId>pulsar-boot</artifactId>
             <version>1.10.9</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 

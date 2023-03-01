@@ -9,7 +9,6 @@ import ai.platon.pulsar.persist.WebPage
 import ai.platon.pulsar.browser.common.BrowserSettings
 import ai.platon.pulsar.common.options.LoadOptions
 import ai.platon.pulsar.context.PulsarContexts.createSession
-import ai.platon.pulsar.crawl.fetch.driver.WebDriver
 import ai.platon.pulsar.session.PulsarSession
 import org.slf4j.LoggerFactory
 

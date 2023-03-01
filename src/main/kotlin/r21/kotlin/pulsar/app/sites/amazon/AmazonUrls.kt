@@ -3,17 +3,8 @@ package r21.kotlin.pulsar.app.sites.amazon
 import ai.platon.pulsar.common.config.AppConstants
 import ai.platon.pulsar.common.urls.UrlUtils
 import ai.platon.pulsar.common.urls.preprocess.AbstractUrlNormalizer
-import org.apache.http.NameValuePair
 import org.apache.http.client.utils.URIBuilder
-import org.apache.http.message.BasicHeader
 import java.nio.charset.Charset
-
-import ai.platon.pulsar.browser.common.BrowserSettings
-import ai.platon.pulsar.common.options.LoadOptions
-import ai.platon.pulsar.context.PulsarContexts.createSession
-import ai.platon.pulsar.crawl.fetch.driver.WebDriver
-import ai.platon.pulsar.session.PulsarSession
-import org.slf4j.LoggerFactory
 
 object AmazonUrls {
     val charset = Charset.defaultCharset()
