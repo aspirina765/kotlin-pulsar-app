@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="$USER_HOME$/.sdkman/candidates/sbt/current" />
+    <option name="maximumHeapSize" value="20480" />
+    <option name="vmParameters" value="-Xmx20480M" />
+  </component>
+</project>
