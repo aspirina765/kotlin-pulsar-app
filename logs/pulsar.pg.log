@@ -70,3 +70,5 @@
 05:05:21.516 [main] INFO  a.p.p.c.c.L.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc
 20:31:55.052 [main] INFO  a.p.p.c.c.L.Task -   2. 💯 ⚡ U for N got 200 966,76 KiB [💿1.005,90 KiB] in 12.647s, fc:1 | 53/207/46/145/5097 | 1LBSU22 | file:///tmp/ln/75b42c2501d270e8645a002894b5abb2.htm | https://www.mercadolivre.com.br/c/celulares-e-telefones -expires PT24H -ignoreFailure -itemExpires PT120H -outLinkSelector a[href~=-cat-]
 20:31:55.052 [main] INFO  a.p.p.c.c.L.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc
+20:37:22.658 [main] INFO  a.p.p.c.c.L.Task -   2. 💯 ⚡ U for N got 200 10,31 KiB [💿11,91 KiB] in 11.171s, fc:1 | 1PbVLT2 | file:///tmp/ln/bf98159d0efa95138a037d241d9bda72.htm | https://br.shein.com/New-in-Trends-sc-00654187.html -expires PT24H -ignoreFailure -itemExpires PT120H -outLinkSelector a[href~=-cat-]
+20:37:22.659 [main] INFO  a.p.p.c.c.L.Task - Log explanation: https://github.com/platonai/pulsarr/blob/master/docs/log-format.adoc

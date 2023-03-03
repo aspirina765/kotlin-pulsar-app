@@ -2,24 +2,24 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
-      <option name="id" value="kotlin-eap-releases" />
-      <option name="name" value="Kotlin EAP Releases Repository" />
-      <option name="url" value="https://dl.bintray.com/kotlin/kotlin-eap" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="ai.platon.pulsar" />
-      <option name="name" value="AI Platon Pulsar Maven Repository" />
-      <option name="url" value="https://mvnrepository.com/artifact/ai.platon.pulsar/" />
+      <option name="id" value="kotlin-eap-releases" />
+      <option name="name" value="Kotlin EAP Releases Repository" />
+      <option name="url" value="https://dl.bintray.com/kotlin/kotlin-eap" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="Central" />
       <option name="name" value="Central" />
       <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ai.platon.pulsar" />
+      <option name="name" value="AI Platon Pulsar Maven Repository" />
+      <option name="url" value="https://mvnrepository.com/artifact/ai.platon.pulsar/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="spring-boot" />
@@ -57,6 +57,11 @@
       <option name="url" value="https://oss.sonatype.org/content/repositories/snapshots" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="ai.platon" />
+      <option name="name" value="ai.platon" />
+      <option name="url" value="https://mvnrepository.com/artifact/ai.platon" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="platon-ai" />
       <option name="name" value="Platon AI Repository" />
       <option name="url" value="http://static.platonic.fun/repo/" />
@@ -75,6 +80,11 @@
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="kotlin" />
+      <option name="name" value="kotlin" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.jetbrains.kotlin" />
     </remote-repository>
   </component>
 </project>
