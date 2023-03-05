@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 05 06:07:51 BRT 2023
+https\://mvnrepository.com/artifact/io.quarkus/.error=Could not transfer artifact com.sun.activation\:all\:pom\:1.2.0 from/to io.quarkus (https\://mvnrepository.com/artifact/io.quarkus/)\: status code\: 403, reason phrase\: Forbidden (403)
+@default-io.quarkus-https\://mvnrepository.com/artifact/io.quarkus/.lastUpdated=1678007271700
+http\://repository.apache.org/snapshots/.error=
+https\://repo1.maven.org/maven2/.lastUpdated=1678007271845
+http\://repository.apache.org/snapshots/.lastUpdated=1678007271681

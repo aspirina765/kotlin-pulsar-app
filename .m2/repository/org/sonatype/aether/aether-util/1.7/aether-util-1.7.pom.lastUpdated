@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Mar 05 05:51:42 BRT 2023
-https\://mvnrepository.com/artifact/io.quarkus/.error=Could not transfer artifact org.sonatype.aether\:aether-util\:pom\:1.7 from/to io.quarkus (https\://mvnrepository.com/artifact/io.quarkus/)\: status code\: 403, reason phrase\: Forbidden (403)
-@default-io.quarkus-https\://mvnrepository.com/artifact/io.quarkus/.lastUpdated=1678006302612
-http\://repository.apache.org/snapshots/.error=
-https\://repo1.maven.org/maven2/.lastUpdated=1678006302753
-http\://repository.apache.org/snapshots/.lastUpdated=1678006302586
