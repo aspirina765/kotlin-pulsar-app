@@ -1,0 +1,19 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 05 06:11:39 BRT 2023
+@default-org.springframework.boot-https\://mvnrepository.com/artifact/org.springframework.boot/.lastUpdated=1678007499233
+@default-io.quarkus-https\://mvnrepository.com/artifact/io.quarkus/.lastUpdated=1678007499486
+@default-ai.platon-https\://mvnrepository.com/artifact/ai.platon/.lastUpdated=1678007499166
+https\://mvnrepository.com/artifact/ai.platon.pulsar/.error=Could not transfer artifact org.sonatype.spice\:spice-parent\:pom\:15 from/to ai.platon.pulsar (https\://mvnrepository.com/artifact/ai.platon.pulsar/)\: status code\: 403, reason phrase\: Forbidden (403)
+https\://mvnrepository.com/artifact/ai.platon/.error=Could not transfer artifact org.sonatype.spice\:spice-parent\:pom\:15 from/to ai.platon (https\://mvnrepository.com/artifact/ai.platon/)\: status code\: 403, reason phrase\: Forbidden (403)
+https\://repo1.maven.org/maven2/.lastUpdated=1678007499625
+https\://mvnrepository.com/artifact/org.apache.maven.plugins/.error=Could not transfer artifact org.sonatype.spice\:spice-parent\:pom\:15 from/to org.apache.maven.plugins (https\://mvnrepository.com/artifact/org.apache.maven.plugins/)\: status code\: 403, reason phrase\: Forbidden (403)
+https\://mvnrepository.com/artifact/org.springframework.boot/.error=Could not transfer artifact org.sonatype.spice\:spice-parent\:pom\:15 from/to org.springframework.boot (https\://mvnrepository.com/artifact/org.springframework.boot/)\: status code\: 403, reason phrase\: Forbidden (403)
+@default-kotlin-https\://mvnrepository.com/artifact/org.jetbrains.kotlin/.lastUpdated=1678007499210
+https\://mvnrepository.com/artifact/io.quarkus/.error=Could not transfer artifact org.sonatype.spice\:spice-parent\:pom\:15 from/to io.quarkus (https\://mvnrepository.com/artifact/io.quarkus/)\: status code\: 403, reason phrase\: Forbidden (403)
+https\://mvnrepository.com/artifact/org.jetbrains.kotlin/.error=Could not transfer artifact org.sonatype.spice\:spice-parent\:pom\:15 from/to kotlin (https\://mvnrepository.com/artifact/org.jetbrains.kotlin/)\: status code\: 403, reason phrase\: Forbidden (403)
+@default-ai.platon.pulsar-https\://mvnrepository.com/artifact/ai.platon.pulsar/.lastUpdated=1678007499188
+@default-org.apache.maven.plugins-https\://mvnrepository.com/artifact/org.apache.maven.plugins/.lastUpdated=1678007499144
+https\://mvnrepository.com/artifact/org.apache.maven/.error=Could not transfer artifact org.sonatype.spice\:spice-parent\:pom\:15 from/to maven-repository (https\://mvnrepository.com/artifact/org.apache.maven/)\: status code\: 403, reason phrase\: Forbidden (403)
+@default-maven-repository-https\://mvnrepository.com/artifact/org.apache.maven/.lastUpdated=1678007499122
+http\://repository.apache.org/snapshots/.error=
+http\://repository.apache.org/snapshots/.lastUpdated=1678007499464

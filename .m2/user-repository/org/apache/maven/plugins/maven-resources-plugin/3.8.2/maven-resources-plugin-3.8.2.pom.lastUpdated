@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 05 06:16:26 BRT 2023
+https\://repo1.maven.org/maven2/.error=
+file\:///home/rhel9prod/scripts/GP/PULSAR-REPOS/EXOTIC-SCRAPE/kotlin-pulsar-app/.m2/user-repository/.error=
+file\:///home/rhel9prod/scripts/GP/PULSAR-REPOS/EXOTIC-SCRAPE/kotlin-pulsar-app/.m2/user-repository/.lastUpdated=1678007786321
+https\://repo1.maven.org/maven2/.lastUpdated=1678007786319
