@@ -2,14 +2,9 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
-      <option name="id" value="central" />
-      <option name="name" value="Central Repository" />
-      <option name="url" value="https://repo.maven.apache.org/maven2" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="kotlin-eap-releases" />
-      <option name="name" value="Kotlin EAP Releases Repository" />
-      <option name="url" value="https://dl.bintray.com/kotlin/kotlin-eap" />
+      <option name="id" value="org.springframework.boot" />
+      <option name="name" value="org.springframework.boot" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.springframework.boot/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="Central" />
@@ -27,6 +22,71 @@
       <option name="url" value="https://mvnrepository.com/artifact/org.springframework.boot/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="ai.platon.pulsar" />
+      <option name="name" value="ai.platon.pulsar" />
+      <option name="url" value="https://mvnrepository.com/artifact/ai.platon.pulsar/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ai.platon" />
+      <option name="name" value="ai.platon" />
+      <option name="url" value="https://mvnrepository.com/artifact/ai.platon" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="red-hat-enterprise-maven-repository" />
+      <option name="name" value="red-hat-enterprise-maven-repository" />
+      <option name="url" value="file://$MAVEN_REPOSITORY$" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apache-snapshots" />
+      <option name="name" value="Apache Snapshots" />
+      <option name="url" value="http://repository.apache.org/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="Bintray JCenter" />
+      <option name="url" value="https://jcenter.bintray.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.apache.maven.plugins" />
+      <option name="name" value="org.apache.maven.plugins" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.apache.maven.plugins/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="red-hat-enterprise-maven-repository" />
+      <option name="name" value="red-hat-enterprise-maven-repository" />
+      <option name="url" value="file://$USER_HOME$/.m2/rh-quarkus-2.13.7-maven-repository/rh-quarkus-2.13.7.CR2-maven-repository/maven-repository/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="kotlin" />
+      <option name="name" value="kotlin" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.jetbrains.kotlin/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="io.quarkus" />
+      <option name="name" value="io.quarkus" />
+      <option name="url" value="https://mvnrepository.com/artifact/io.quarkus/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="kotlin-eap-releases" />
+      <option name="name" value="Kotlin EAP Releases Repository" />
+      <option name="url" value="https://dl.bintray.com/kotlin/kotlin-eap" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="Bintray JCenter" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="alimaven" />
       <option name="name" value="aliyun maven" />
       <option name="url" value="https://maven.aliyun.com/nexus/content/repositories/central/" />
@@ -42,9 +102,19 @@
       <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="libs-release" />
+      <option name="url" value="http://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="maven-central" />
       <option name="name" value="Maven Central" />
       <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="AsposeJavaAPI" />
@@ -57,9 +127,9 @@
       <option name="url" value="https://oss.sonatype.org/content/repositories/snapshots" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="ai.platon" />
-      <option name="name" value="ai.platon" />
-      <option name="url" value="https://mvnrepository.com/artifact/ai.platon" />
+      <option name="id" value="apache-snapshots" />
+      <option name="name" value="Apache Snapshots" />
+      <option name="url" value="https://repository.apache.org/snapshots" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="platon-ai" />
@@ -67,9 +137,34 @@
       <option name="url" value="http://static.platonic.fun/repo/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="libs-release" />
+      <option name="url" value="https://mvnrepository.com/artifact/ai.platon/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="mavenCentral" />
       <option name="name" value="mavenCentral" />
       <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-libs-milestone" />
+      <option name="name" value="Spring Libs Milestones" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="http://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="google" />
+      <option name="name" value="Google Maven Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/google" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ai.platon" />
+      <option name="name" value="ai.platon" />
+      <option name="url" value="https://mvnrepository.com/artifact/ai.platon/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="quarkus-releases" />
@@ -77,14 +172,34 @@
       <option name="url" value="https://maven.repository.redhat.com/ga/io/quarkus/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="jboss.community" />
-      <option name="name" value="JBoss Community repository" />
-      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+      <option name="id" value="maven-repository" />
+      <option name="name" value="maven-repository" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.apache.maven/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="kotlin" />
       <option name="name" value="kotlin" />
       <option name="url" value="https://mvnrepository.com/artifact/org.jetbrains.kotlin" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://mvnrepository.com/artifact/ai.platon/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="org.springframework.boot" />
+      <option name="name" value="org.springframework.boot" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.springframework.boot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="apache-snapshots" />
+      <option name="name" value="Apache Snapshots" />
+      <option name="url" value="https://maven.aliyun.com/repository/apache-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ai.platon.pulsar" />
+      <option name="name" value="ai.platon.pulsar" />
+      <option name="url" value="https://mvnrepository.com/artifact/ai.platon.pulsar" />
     </remote-repository>
   </component>
 </project>
