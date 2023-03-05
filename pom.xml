@@ -109,7 +109,7 @@
             </plugin>
             <plugin>
               <artifactId>maven-resources-plugin</artifactId>
-              <version>3.9.0</version>
+              <version>3.8.2</version>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -172,11 +172,11 @@
             <scope>compile</scope>
         </dependency>
 
-        <dependency>
-            <groupId>org.jetbrains.kotlin</groupId>
-            <artifactId>kotlin-stdlib-jdk8</artifactId>
-            <version>${kotlin.version}</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.jetbrains.kotlin</groupId>-->
+<!--            <artifactId>kotlin-stdlib-jdk8</artifactId>-->
+<!--            <version>${kotlin.version}</version>-->
+<!--        </dependency>-->
 
 
     <!-- Internal Dependencies -->
@@ -333,7 +333,7 @@
         <dependency>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-resources-plugin</artifactId>
-            <version>3.9.0</version>
+            <version>3.8.2</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
